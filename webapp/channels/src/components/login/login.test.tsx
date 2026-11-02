@@ -123,6 +123,25 @@ describe('components/login/Login', () => {
         expect(screen.queryByText('Log in to your account')).not.toBeInTheDocument();
     });
 
+    it('should customize the header with the login logo', () => {
+        const onCustomizeHeader = jest.fn();
+
+        renderWithContext(
+            <Login onCustomizeHeader={onCustomizeHeader}/>,
+            baseState,
+        );
+
+        expect(onCustomizeHeader).toHaveBeenLastCalledWith(expect.objectContaining({
+            logo: expect.objectContaining({
+                type: 'img',
+                props: expect.objectContaining({
+                    className: 'header-logo-image',
+                    alt: '',
+                }),
+            }),
+        }));
+    });
+
     it('should match snapshot with base login', () => {
         const state = mergeObjects(baseState, {
             entities: {

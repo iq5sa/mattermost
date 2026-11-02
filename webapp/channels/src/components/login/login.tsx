@@ -46,6 +46,8 @@ import LoginOpenIDIcon from 'components/widgets/icons/login_openid_icon';
 import Input, {SIZE} from 'components/widgets/inputs/input/input';
 import PasswordInput from 'components/widgets/inputs/password_input/password_input';
 
+import loginLogo from 'images/login-logo.png';
+
 import Constants from 'utils/constants';
 import DesktopApp from 'utils/desktop_api';
 import {isEmbedded} from 'utils/embed';
@@ -469,6 +471,11 @@ const Login = ({onCustomizeHeader}: LoginProps) => {
             onCustomizeHeader({
                 onBackButtonClick: (showMfa || desktopLoginLink) ? handleHeaderBackButtonOnClick : undefined,
                 alternateLink: isMobileView ? getAlternateLink() : undefined,
+                logo: <img
+                    className='header-logo-image'
+                    alt=''
+                    src={loginLogo}
+                />,
             });
         }
     }, [onCustomizeHeader, search, showMfa, desktopLoginLink, isMobileView, getAlternateLink]);

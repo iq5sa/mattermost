@@ -17,20 +17,22 @@ import {LicenseSkus} from 'utils/constants';
 export type HeaderProps = {
     alternateLink?: React.ReactElement;
     backButtonURL?: string;
+    logo?: React.ReactNode;
     onBackButtonClick?: React.EventHandler<React.MouseEvent>;
 };
 
-const Header = ({alternateLink, backButtonURL, onBackButtonClick}: HeaderProps) => {
+const Header = ({alternateLink, backButtonURL, logo, onBackButtonClick}: HeaderProps) => {
     const {SiteName} = useSelector(getConfig);
     const license = useSelector(getLicense);
 
     const ariaLabel = SiteName || 'Mattermost';
+    const headerLogo = logo ?? <Logo/>;
 
     let freeBanner = null;
     if (license.IsLicensed === 'false') {
-        freeBanner = <><Logo/><span className='freeBadge'>{'TEAM EDITION'}</span></>;
+        freeBanner = <>{headerLogo}<span className='freeBadge'>{'TEAM EDITION'}</span></>;
     } else if (license.SkuShortName === LicenseSkus.Entry) {
-        freeBanner = <><Logo/><span className='freeBadge'>{'ENTRY EDITION'}</span></>;
+        freeBanner = <>{headerLogo}<span className='freeBadge'>{'ENTRY EDITION'}</span></>;
     }
 
     let title: React.ReactNode = SiteName;
@@ -38,7 +40,7 @@ const Header = ({alternateLink, backButtonURL, onBackButtonClick}: HeaderProps) 
         if (freeBanner) {
             title = '';
         } else {
-            title = <Logo/>;
+            title = headerLogo;
         }
     }
 
