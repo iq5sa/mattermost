@@ -130,7 +130,7 @@ describe('getReportAProblemLink', () => {
             },
         } as unknown as GlobalState;
 
-        expect(getReportAProblemLink(state)).toContain('https://mattermost.com/pl/report_a_problem_unlicensed');
+        expect(getReportAProblemLink(state)).toContain('https://mc.alkafeel.net/pl/report_a_problem_unlicensed');
     });
 
     it('should return the default unlicensed URL if licensed with entry SKU', () => {
@@ -150,7 +150,7 @@ describe('getReportAProblemLink', () => {
             },
         } as unknown as GlobalState;
 
-        expect(getReportAProblemLink(state)).toContain('https://mattermost.com/pl/report_a_problem_unlicensed');
+        expect(getReportAProblemLink(state)).toContain('https://mc.alkafeel.net/pl/report_a_problem_unlicensed');
     });
 });
 

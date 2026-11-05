@@ -12,7 +12,7 @@ Further explanation of the file structure can be found in [the Developer Setup](
  - [GitHub Repository](https://github.com/mattermost/mattermost-mobile) - Get the code, report issues, or submit PRs.
  - [Running the app](/developers/contribute/more-info/mobile/developer-setup/run) - Compile recommendations.
  - [Channel](https://community.mattermost.com/core/channels/native-mobile-apps)  - Use the channel to interact with other Mattermost Mobile developers.
- - [Help Wanted](https://mattermost.com/pl/help-wanted-mattermost-mobile) - Find help wanted tickets here.
+ - [Help Wanted](https://mc.alkafeel.net/pl/help-wanted-mattermost-mobile) - Find help wanted tickets here.
 
 ### Android specific documentation
  - [Build guide](/developers/contribute/more-info/mobile/build-your-own/android)

@@ -13,7 +13,7 @@ import {expect} from '@mattermost/playwright-lib';
 export const TEST_PHONE = '555-123-4567';
 export const TEST_UPDATED_PHONE = '555-987-6543';
 export const TEST_URL = 'https://example.com';
-export const TEST_UPDATED_URL = 'https://mattermost.com';
+export const TEST_UPDATED_URL = 'https://mc.alkafeel.net';
 export const TEST_INVALID_URL = 'ftp://invalid-url';
 export const TEST_VALID_URL = 'https://example2.com';
 export const TEST_DEPARTMENT = 'Engineering';

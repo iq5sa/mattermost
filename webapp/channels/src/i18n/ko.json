@@ -1114,7 +1114,7 @@
   "admin.featureDiscovery.WarningDescription": "모든 엔터프라이즈 기능에 대한 전체 액세스 권한을 부여하기 위해 라이선스가 업데이트 중입니다. 라이선스 업데이트가 완료되면 이 페이지가 자동으로 새로고침됩니다. 잠시만 기다려주세요. ",
   "admin.featureDiscovery.WarningTitle": "평가판이 시작되었으며 라이선스가 업데이트되고 있습니다.",
   "admin.feature_discovery.trial-request.accept-terms": "<highlight>평가판 시작</highlight> 을 클릭하면 <linkEvaluation>가장 중요한 소프트웨어 평가 계약</linkEvaluation>, <linkPrivacy>개인정보 보호정책</linkPrivacy> 및 제품 이메일 수신에 동의합니다.",
-  "admin.feature_discovery.trial-request.error": "평가판 라이선스를 검색할 수 없습니다. 라이선스를 요청하려면 <link>https://mattermost.com/trial</link> 을 방문하세요.",
+  "admin.feature_discovery.trial-request.error": "평가판 라이선스를 검색할 수 없습니다. 라이선스를 요청하려면 <link>https://mc.alkafeel.net/trial</link> 을 방문하세요.",
   "admin.feature_flags.flag": "깃발",
   "admin.feature_flags.flag_value": "가치",
   "admin.feature_flags.introBanner": "다음 기능 플래그 값은 이 인스턴스에서 활성화된 기능의 상태를 보여줍니다. 이 값은 매터모스트 지원팀에서 디버깅 목적으로 사용합니다.",

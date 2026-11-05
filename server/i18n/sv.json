@@ -7943,7 +7943,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Misslyckades med att installera ny testlicens eftersom din arbetsyta tidigare använt en testlicens. [Kontakta försäljningsteamet] (https://mattermost.com/contact-us/) om du vill utöka testperioden."
+    "translation": "Misslyckades med att installera ny testlicens eftersom din arbetsyta tidigare använt en testlicens. [Kontakta försäljningsteamet] (https://mc.alkafeel.net/contact-us/) om du vill utöka testperioden."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8227,7 +8227,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Vi kunde inte behandla begäran på grund av begränsningar för länder med embargo. [Läs mer i vår dokumentation] (https://mattermost.com/pl/limitations-for-embargoed-countries), eller kontakta legal@mattermost.com för frågor om exportbegränsningar."
+    "translation": "Vi kunde inte behandla begäran på grund av begränsningar för länder med embargo. [Läs mer i vår dokumentation] (https://mc.alkafeel.net/pl/limitations-for-embargoed-countries), eller kontakta legal@mattermost.com för frågor om exportbegränsningar."
   },
   {
     "id": "api.getThreadsForUser.bad_only_params",

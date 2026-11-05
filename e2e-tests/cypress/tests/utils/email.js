@@ -111,7 +111,7 @@ export function getWelcomeEmailTemplate(userEmail, siteName, teamName) {
         'Download the desktop and mobile apps',
         'For the best experience, download the apps for PC, Mac, iOS and Android.',
         '',
-        'Download ( https://mattermost.com/pl/download-apps )',
+        'Download ( https://mc.alkafeel.net/pl/download-apps )',
         '',
         `© 2015 - ${new Date().getFullYear()} Mattermost, Inc. 2100 Geng Road, Suite 210, Palo Alto, CA, 94303`,
     ];

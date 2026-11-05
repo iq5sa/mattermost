@@ -18,10 +18,10 @@ import {TERMS_OF_SERVICE_LINK} from '@/utils/constants';
 describe('SupportSettings', () => {
     const tosLink = 'https://github.com/mattermost/platform/blob/master/README.md';
     const privacyLink = 'https://github.com/mattermost/platform/blob/master/README.md';
-    const aboutLink = 'https://mattermost.com/default-about/';
+    const aboutLink = 'https://mc.alkafeel.net/default-about/';
     const helpLink = 'https://github.com/mattermost/platform/blob/master/doc/help/README.md';
     const problemLink = 'https://forum.mattermost.com/c/trouble-shoot';
-    const askCommunityLink = 'https://mattermost.com/pl/default-ask-mattermost-community';
+    const askCommunityLink = 'https://mc.alkafeel.net/pl/default-ask-mattermost-community';
 
     before(() => {
         cy.shouldNotRunOnCloudEdition();

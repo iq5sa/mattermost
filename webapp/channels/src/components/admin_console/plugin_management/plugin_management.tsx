@@ -1364,7 +1364,7 @@ export class PluginManagement extends OLDAdminSettings<Props, State> {
                                             values={{
                                                 link: (msg: React.ReactNode) => (
                                                     <ExternalLink
-                                                        href='https://mattermost.com/pl/default-mattermost-marketplace.html'
+                                                        href='https://mc.alkafeel.net/pl/default-mattermost-marketplace.html'
                                                         location='plugin_management'
                                                     >
                                                         {msg}

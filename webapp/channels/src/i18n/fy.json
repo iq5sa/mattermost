@@ -784,7 +784,7 @@
   "admin.featureDiscovery.WarningDescription": "Jouw licentie wordt bijgewerkt om je volledige toegang te geven tot alle Enterprise functies. Deze pagina wordt automatisch vernieuwd zodra de licentie-update is voltooid. Even geduld a.u.b. ",
   "admin.featureDiscovery.WarningTitle": "Jouw proefperiode is begonnen en jouw licentie wordt bijgewerkt.",
   "admin.feature_discovery.trial-request.accept-terms": "Door <highlight>\"Proefperiode starten\"</highlight> te kiezen, ga ik akkoord met de <linkEvaluation>Mattermost Software Evaluatie Overeenkomst</linkEvaluation>, <linkPrivacy>privacy beleid</linkPrivacy> en het ontvangen van productemails.",
-  "admin.feature_discovery.trial-request.error": "Een proeflicentie kon niet worden verkregen. Bezoek <link>https://mattermost.com/trial/</link> om een licentie aan te vragen.",
+  "admin.feature_discovery.trial-request.error": "Een proeflicentie kon niet worden verkregen. Bezoek <link>https://mc.alkafeel.net/trial/</link> om een licentie aan te vragen.",
   "admin.feature_flags.flag": "Markeren",
   "admin.feature_flags.flag_value": "Waarde",
   "admin.feature_flags.introBanner": "De volende Functiewaarden die hier worden weergegeven, geven de status weer van de functies die op deze server zijn ingeschakeld. De waarden worden gebruikt voor debugging doeleinden door het Mattermost support team.",

@@ -22,7 +22,7 @@ const nativeUrl = 'mattermost://localhost:8065/team-name/channels/town-square';
 
 describe('components/LinkingLandingPage', () => {
     const baseProps = {
-        desktopAppLink: 'https://mattermost.com/download/',
+        desktopAppLink: 'https://mc.alkafeel.net/download/',
         siteUrl,
         siteName: 'Mattermost',
         enableCustomBrand: false,

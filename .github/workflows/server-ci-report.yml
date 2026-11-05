@@ -224,7 +224,7 @@ jobs:
             --arg text "$TEXT" \
             '{
               username: "Flaky Test Report",
-              icon_url: "https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png",
+              icon_url: "https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png",
               attachments: [{color: "#CCCC00", text: $text}]
             }')
 

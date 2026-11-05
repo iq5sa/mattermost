@@ -28,7 +28,7 @@ export function getReportAProblemLink(state: GlobalState): string {
         if (!isFreeEdition(state)) {
             return getDefaultReportAProblemMailtoLink(state);
         }
-        return 'https://mattermost.com/pl/report_a_problem_unlicensed';
+        return 'https://mc.alkafeel.net/pl/report_a_problem_unlicensed';
     }
     }
     return '';
@@ -84,7 +84,7 @@ export const getSystemInfoMailtoLink = createSelector(
         const {browser, browserVersion} = getBrowserInfo();
         const platformName = getPlatformInfo();
 
-        const subject = `Problem with ${siteName || 'Mattermost'} app`;
+        const subject = `Problem with ${siteName || 'Alkafeel-Whatsapp'} app`;
         const body = `
 System Information:
 - User ID: ${currentUserId}

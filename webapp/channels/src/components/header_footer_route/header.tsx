@@ -25,18 +25,18 @@ const Header = ({alternateLink, backButtonURL, logo, onBackButtonClick}: HeaderP
     const {SiteName} = useSelector(getConfig);
     const license = useSelector(getLicense);
 
-    const ariaLabel = SiteName || 'Mattermost';
+    const ariaLabel = SiteName || 'Alkafeel-Whatsapp';
     const headerLogo = logo ?? <Logo/>;
 
     let freeBanner = null;
     if (license.IsLicensed === 'false') {
-        freeBanner = <>{headerLogo}<span className='freeBadge'>{'TEAM EDITION'}</span></>;
+        freeBanner = headerLogo;
     } else if (license.SkuShortName === LicenseSkus.Entry) {
-        freeBanner = <>{headerLogo}<span className='freeBadge'>{'ENTRY EDITION'}</span></>;
+        freeBanner = headerLogo;
     }
 
     let title: React.ReactNode = SiteName;
-    if (title === 'Mattermost') {
+    if (title === 'Alkafeel-Whatsapp') {
         if (freeBanner) {
             title = '';
         } else {

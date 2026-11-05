@@ -30,4 +30,4 @@ npm run check-types
 
 #### Submitting great PRs
 
-Jesse Hallam has written an excellent blog post entitled "Submitting Great PRs" that can be found [here](https://mattermost.com/blog/submitting-great-prs/)
+Jesse Hallam has written an excellent blog post entitled "Submitting Great PRs" that can be found [here](https://mc.alkafeel.net/blog/submitting-great-prs/)

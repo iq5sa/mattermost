@@ -109,9 +109,9 @@ The best place to discuss problems with the writing team is in the [Documentatio
 
 2. If you’d like to contribute to our blog, website, or social media content, you also have a few options:
     
-    -  You can get paid to write technical content for developers through the Mattermost [community writing program](https://mattermost.com/blog/blog-announcing-community-writing-program/).
+    -  You can get paid to write technical content for developers through the Mattermost [community writing program](https://mc.alkafeel.net/blog/blog-announcing-community-writing-program/).
 
-    - If you see a problem with any webpages, blog posts, or other content on [Mattermost.com](https://mattermost.com), you can notify us via [the Content channel](https://community.mattermost.com/core/channels/mattermost-blog) on the Mattermost Community Server.
+    - If you see a problem with any webpages, blog posts, or other content on [Mattermost.com](https://mc.alkafeel.net), you can notify us via [the Content channel](https://community.mattermost.com/core/channels/mattermost-blog) on the Mattermost Community Server.
 
     - Share your contributor or user experience! Mention us when you promote your work within our community, and we’ll amplify the message through Mattermost social media platforms.
 
@@ -129,7 +129,7 @@ Accessibility is one of the most overlooked yet most important features of moder
 
 Thank you for your enthusiasm! You can act on feature ideas in a few ways:
 
-1. Take a look at our [product roadmap](https://mattermost.com/roadmap/). There’s a chance we might already be building the thing you want.
+1. Take a look at our [product roadmap](https://mc.alkafeel.net/roadmap/). There’s a chance we might already be building the thing you want.
 
 2. [Provide input on features](https://portal.productboard.com/mattermost/33-what-matters-to-you/tabs/117-potential-future-offerings) we’re considering to let us know what matters the most to you.
 

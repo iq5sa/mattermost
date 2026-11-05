@@ -3,7 +3,7 @@ title: "Examples"
 sidebar_position: 65
 ---
 
-See a full list of all Mattermost integrations <a target="_blank" href="https://mattermost.com/marketplace/">here</a>.
+See a full list of all Mattermost integrations <a target="_blank" href="https://mc.alkafeel.net/marketplace/">here</a>.
 
 * [**Hubot Adapter**](https://github.com/loafoe/hubot-matteruser)
 

@@ -7083,7 +7083,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Không thể áp dụng giấy phép dùng thử mới. Trước đây, bạn đã đăng ký giấy phép dùng thử cho phiên bản Matter Extreme này. Nếu bạn muốn kéo dài thời gian dùng thử, vui lòng [liên hệ với nhóm bán hàng của chúng tôi](https://mattermost.com/contact-us/)."
+    "translation": "Không thể áp dụng giấy phép dùng thử mới. Trước đây, bạn đã đăng ký giấy phép dùng thử cho phiên bản Matter Extreme này. Nếu bạn muốn kéo dài thời gian dùng thử, vui lòng [liên hệ với nhóm bán hàng của chúng tôi](https://mc.alkafeel.net/contact-us/)."
   },
   {
     "id": "api.license.request_trial_license.app_error",
@@ -7091,7 +7091,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Chúng tôi không thể xử lý yêu cầu do những hạn chế đối với các quốc gia bị cấm vận. [Tìm hiểu thêm trong tài liệu của chúng tôi](https://mattermost.com/pl/limitations-for-embargoed-countries) hoặc liên hệ với legal@mattermost.com nếu có câu hỏi xung quanh các hạn chế xuất khẩu."
+    "translation": "Chúng tôi không thể xử lý yêu cầu do những hạn chế đối với các quốc gia bị cấm vận. [Tìm hiểu thêm trong tài liệu của chúng tôi](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries) hoặc liên hệ với legal@mattermost.com nếu có câu hỏi xung quanh các hạn chế xuất khẩu."
   },
   {
     "id": "api.migrate_to_saml.error",

@@ -51,23 +51,6 @@
                 height: 80px;
                 object-fit: contain;
             }
-
-            .freeBadge {
-                position: relative;
-                top: 1px;
-                display: flex;
-                align-self: center;
-                padding: 2px 6px;
-                border-radius: var(--radius-s);
-                margin-left: 12px;
-                background: rgba(var(--center-channel-color-rgb), 0.08);
-                color: rgba(var(--center-channel-color-rgb), 0.75);
-                font-family: 'Open Sans', sans-serif;
-                font-size: 10px;
-                font-weight: 600;
-                letter-spacing: 0.025em;
-                line-height: 16px;
-            }
         }
     }
 

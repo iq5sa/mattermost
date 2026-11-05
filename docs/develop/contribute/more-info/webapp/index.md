@@ -13,7 +13,7 @@ https://github.com/mattermost/mattermost/tree/master/webapp
 
 ## Help Wanted
 
-[Find help wanted tickets here](https://mattermost.com/pl/help-wanted-mattermost-webapp/).
+[Find help wanted tickets here](https://mc.alkafeel.net/pl/help-wanted-mattermost-webapp/).
 
 ## Package structure
 

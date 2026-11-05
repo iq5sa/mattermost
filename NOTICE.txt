@@ -270,7 +270,7 @@ a “modified version” or “work based on” Mattermost as these terms are de
 MATTERMOST TRADEMARK GUIDELINES
 
 Your use of the mark Mattermost is subject to Mattermost, Inc's prior written approval and our organization’s Trademark
-Standards of Use at https://mattermost.com/trademark-standards-of-use/. For trademark approval or any questions
+Standards of Use at https://mc.alkafeel.net/trademark-standards-of-use/. For trademark approval or any questions
 you have about using these trademarks, please email trademark@mattermost.com
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -1411,7 +1411,7 @@ a “modified version” or “work based on” Mattermost as these terms are de
 MATTERMOST TRADEMARK GUIDELINES
 
 Your use of the mark Mattermost is subject to Mattermost, Inc's prior written approval and our organization’s Trademark
-Standards of Use at https://mattermost.com/trademark-standards-of-use/. For trademark approval or any questions
+Standards of Use at https://mc.alkafeel.net/trademark-standards-of-use/. For trademark approval or any questions
 you have about using these trademarks, please email trademark@mattermost.com
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -8584,7 +8584,7 @@ This product contains 'mattermost/mattermost' by Mattermost.
 Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
 * HOMEPAGE:
-  * https://mattermost.com
+  * https://mc.alkafeel.net
 
 * LICENSE: Other
 
@@ -8612,7 +8612,7 @@ a “modified version” or “work based on” Mattermost as these terms are de
 MATTERMOST TRADEMARK GUIDELINES
 
 Your use of the mark Mattermost is subject to Mattermost, Inc's prior written approval and our organization’s Trademark
-Standards of Use at https://mattermost.com/trademark-standards-of-use/. For trademark approval or any questions
+Standards of Use at https://mc.alkafeel.net/trademark-standards-of-use/. For trademark approval or any questions
 you have about using these trademarks, please email trademark@mattermost.com
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -9496,7 +9496,7 @@ This product contains 'mattermost/mattermost-plugin-agents' by Mattermost.
 Mattermost Agents plugin supporting multiple LLMs
 
 * HOMEPAGE:
-  * https://mattermost.com/copilot
+  * https://mc.alkafeel.net/copilot
 
 * LICENSE: Apache License 2.0
 

@@ -3352,7 +3352,7 @@ func TestSanitizePostMetadataForUser(t *testing.T) {
 					},
 					{
 						Type: model.PostEmbedLink,
-						URL:  "https://mattermost.com",
+						URL:  "https://mc.alkafeel.net",
 					},
 				},
 			},
@@ -3404,7 +3404,7 @@ func TestSanitizePostMetadataForUser(t *testing.T) {
 					},
 					{
 						Type: model.PostEmbedLink,
-						URL:  "https://mattermost.com",
+						URL:  "https://mc.alkafeel.net",
 					},
 				},
 			},
@@ -3532,7 +3532,7 @@ func TestSanitizePostMetadataForUser(t *testing.T) {
 					},
 					{
 						Type: model.PostEmbedLink,
-						URL:  "https://mattermost.com",
+						URL:  "https://mc.alkafeel.net",
 					},
 				},
 			},
@@ -3570,7 +3570,7 @@ func TestSanitizePostMetadataForUser(t *testing.T) {
 					},
 					{
 						Type: model.PostEmbedLink,
-						URL:  "https://mattermost.com",
+						URL:  "https://mc.alkafeel.net",
 					},
 				},
 			},

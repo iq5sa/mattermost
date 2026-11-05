@@ -91,7 +91,7 @@ function createElement(type, config) {
 }
 
 // Standard icon URL
-const STANDARD_ICON = 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png';
+const STANDARD_ICON = 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png';
 
 // Dialog configurations
 const DIALOG_CONFIGS = {
@@ -384,7 +384,7 @@ function getMultiSelectDialog(triggerId, webhookBaseUrl, includeDefaults = false
         dialog: {
             callback_id: 'somecallbackid',
             title: 'Title for Dialog Test with multiselect elements',
-            icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+            icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
             submit_label: 'Submit Multiselect Test',
             notify_on_cancel: true,
             state: 'somestate',
@@ -477,7 +477,7 @@ function getDynamicSelectDialog(triggerId, webhookBaseUrl) {
         dialog: {
             callback_id: 'somecallbackid',
             title: 'Title for Dialog Test with dynamic select element',
-            icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+            icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
             submit_label: 'Submit Dynamic Select Test',
             notify_on_cancel: true,
             state: 'somestate',
@@ -521,7 +521,7 @@ function getBasicDateDialog(triggerId, webhookBaseUrl) {
         dialog: {
             callback_id: 'basic_date_callback',
             title: 'DateTime Fields Test',
-            icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+            icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
             elements: [
                 {
                     display_name: 'Event Date',
@@ -548,7 +548,7 @@ function getBasicDateTimeDialog(triggerId, webhookBaseUrl) {
         dialog: {
             callback_id: 'basic_datetime_callback',
             title: 'DateTime Fields Test',
-            icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+            icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
             elements: [
                 {
                     display_name: 'Event Date',
@@ -587,7 +587,7 @@ function getMinDateConstraintDialog(triggerId, webhookBaseUrl) {
         dialog: {
             callback_id: 'mindate_callback',
             title: 'DateTime Fields Test',
-            icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+            icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
             elements: [
                 {
                     display_name: 'Future Date Only',
@@ -617,7 +617,7 @@ function getCustomIntervalDialog(triggerId, webhookBaseUrl) {
         dialog: {
             callback_id: 'interval_callback',
             title: 'DateTime Fields Test',
-            icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+            icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
             elements: [
                 {
                     display_name: 'Custom Interval Time',
@@ -647,7 +647,7 @@ function getRelativeDateDialog(triggerId, webhookBaseUrl) {
         dialog: {
             callback_id: 'relative_callback',
             title: 'DateTime Fields Test',
-            icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+            icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
             elements: [
                 {
                     display_name: 'Relative Date Example',
@@ -731,7 +731,7 @@ function getFileUploadDialog(triggerId, webhookBaseUrl) {
         dialog: {
             callback_id: 'somecallbackid',
             title: 'Title for Dialog Test with file upload element',
-            icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+            icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
             submit_label: 'Submit File Upload Test',
             notify_on_cancel: true,
             state: 'somestate',

@@ -7939,7 +7939,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "すでにワークスペースにトライアルライセンスが適用されているため、新しいトライアルライセンスを適用できませんでした。トライアル期間の延長をご希望の場合は[営業までご連絡ください](https://mattermost.com/contact-us/)。"
+    "translation": "すでにワークスペースにトライアルライセンスが適用されているため、新しいトライアルライセンスを適用できませんでした。トライアル期間の延長をご希望の場合は[営業までご連絡ください](https://mc.alkafeel.net/contact-us/)。"
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8227,7 +8227,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "禁輸国に対する制限のため、リクエストを処理することができませんでした。輸出制限に関するご質問は、[説明文書を参照するか](https://mattermost.com/pl/limitations-for-embargoed-countries)、legal@mattermost.com までお問い合わせください。"
+    "translation": "禁輸国に対する制限のため、リクエストを処理することができませんでした。輸出制限に関するご質問は、[説明文書を参照するか](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries)、legal@mattermost.com までお問い合わせください。"
   },
   {
     "id": "api.getThreadsForUser.bad_only_params",

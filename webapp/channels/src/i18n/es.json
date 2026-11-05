@@ -883,7 +883,7 @@
   "admin.featureDiscovery.WarningDescription": "Tu Licencia está siendo actualizada para darte acceso completo a todas las características Enterprise. Ésta página se actualizará automáticamente una vez que se complete la actualización de la licencia. Por favor espera ",
   "admin.featureDiscovery.WarningTitle": "Tu prueba ha comenzado y se están realizando actualizaciones a tu licencia.",
   "admin.feature_discovery.trial-request.accept-terms": "Al dar clic en <highlight>Comenzar prueba</highlight>, acepto el <linkEvaluation>Acuerdo de evaluación del Software Mattermost</linkEvaluation>, <linkPrivacy>Política de Privacidad</linkPrivacy> y recibir correos electrónicos de productos.",
-  "admin.feature_discovery.trial-request.error": "No se pudo recuperar la licencia de Prueba. Visita <link>https://mattermost.com/trial</link> para solicitar una licencia.",
+  "admin.feature_discovery.trial-request.error": "No se pudo recuperar la licencia de Prueba. Visita <link>https://mc.alkafeel.net/trial</link> para solicitar una licencia.",
   "admin.feature_flags.flag": "Indicador",
   "admin.feature_flags.flag_value": "Valor",
   "admin.feature_flags.introBanner": "Los siguientes valores del indicador de función muestran el estado de las funciones habilitadas en esta instancia. Los valores son sólo utilizados con propósitos de depuración por parte del equipo de soporte de Mattermost.",

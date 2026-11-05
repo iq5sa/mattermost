@@ -225,7 +225,7 @@ export default class Integrations extends React.PureComponent <Props> {
                         values={{
                             appDirectory: (
                                 <ExternalLink
-                                    href='https://mattermost.com/marketplace'
+                                    href='https://mc.alkafeel.net/marketplace'
                                     location='integrations'
                                 >
                                     <FormattedMessage

@@ -8,7 +8,7 @@ Here are a few links to Mattermost content that you might find helpful depending
 ## Mattermost resources
 
 1. Specific localization guides (coming soon!)
-2. [Mattermost contributor agreement](https://mattermost.com/mattermost-contributor-agreement/)
+2. [Mattermost contributor agreement](https://mc.alkafeel.net/mattermost-contributor-agreement/)
 3. [Approved contributor list](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true)
 4. [The API](https://api.mattermost.com)
 5. [Incoming](/developers/integrate/webhooks/incoming) and [outgoing](/developers/integrate/webhooks/outgoing) webhooks

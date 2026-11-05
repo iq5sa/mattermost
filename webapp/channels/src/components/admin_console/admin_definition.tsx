@@ -2335,7 +2335,7 @@ const AdminDefinition: AdminDefinitionType = {
                                 link: (msg: string) => (
                                     <ExternalLink
                                         location='admin_console'
-                                        href='https://mattermost.com/pl/default-allow-untrusted-internal-connections'
+                                        href='https://mc.alkafeel.net/pl/default-allow-untrusted-internal-connections'
                                     >
                                         {msg}
                                     </ExternalLink>
@@ -2789,7 +2789,7 @@ const AdminDefinition: AdminDefinitionType = {
                             type: 'dropdown',
                             key: 'SupportSettings.ReportAProblemType',
                             label: defineMessage({id: 'admin.support.reportAProblemTypeTitle', defaultMessage: 'Report a Problem:'}),
-                            help_text: defineMessage({id: 'admin.support.reportAProblemTypeDescriptionUnlicensed', defaultMessage: 'By default, selecting "Report a Problem" from the help menu opens the [Mattermost troubleshooting forums](https://mattermost.com/pl/report_a_problem_unlicensed). You may provide a custom URL or email address for end user support by choosing "Custom link" or "Email address". "Hide link" removes the "Report a Problem" option from the app.'}),
+                            help_text: defineMessage({id: 'admin.support.reportAProblemTypeDescriptionUnlicensed', defaultMessage: 'By default, selecting "Report a Problem" from the help menu opens the [Mattermost troubleshooting forums](https://mc.alkafeel.net/pl/report_a_problem_unlicensed). You may provide a custom URL or email address for end user support by choosing "Custom link" or "Email address". "Hide link" removes the "Report a Problem" option from the app.'}),
                             help_text_markdown: true,
                             isDisabled: it.not(it.userHasWritePermissionOnResource(RESOURCE_KEYS.SITE.CUSTOMIZATION)),
                             isHidden: it.any(
@@ -3580,7 +3580,7 @@ const AdminDefinition: AdminDefinitionType = {
                                         link: (msg: string) => (
                                             <ExternalLink
                                                 location='admin_console'
-                                                href='https://mattermost.com/pl/message-priority/'
+                                                href='https://mc.alkafeel.net/pl/message-priority/'
                                             >
                                                 {msg}
                                             </ExternalLink>
@@ -3598,7 +3598,7 @@ const AdminDefinition: AdminDefinitionType = {
                                         link: (msg: string) => (
                                             <ExternalLink
                                                 location='admin_console'
-                                                href='https://mattermost.com/pl/message-priority/'
+                                                href='https://mc.alkafeel.net/pl/message-priority/'
                                             >
                                                 {msg}
                                             </ExternalLink>
@@ -3617,7 +3617,7 @@ const AdminDefinition: AdminDefinitionType = {
                                         link: (msg: string) => (
                                             <ExternalLink
                                                 location='admin_console'
-                                                href='https://mattermost.com/pl/message-priority/'
+                                                href='https://mc.alkafeel.net/pl/message-priority/'
                                             >
                                                 {msg}
                                             </ExternalLink>
@@ -3639,7 +3639,7 @@ const AdminDefinition: AdminDefinitionType = {
                                         link: (msg: string) => (
                                             <ExternalLink
                                                 location='admin_console'
-                                                href='https://mattermost.com/pl/message-priority/'
+                                                href='https://mc.alkafeel.net/pl/message-priority/'
                                             >
                                                 {msg}
                                             </ExternalLink>
@@ -3662,7 +3662,7 @@ const AdminDefinition: AdminDefinitionType = {
                                         link: (msg: string) => (
                                             <ExternalLink
                                                 location='admin_console'
-                                                href='https://mattermost.com/pl/message-priority/'
+                                                href='https://mc.alkafeel.net/pl/message-priority/'
                                             >
                                                 {msg}
                                             </ExternalLink>
@@ -3684,7 +3684,7 @@ const AdminDefinition: AdminDefinitionType = {
                                         link: (msg: string) => (
                                             <ExternalLink
                                                 location='admin_console'
-                                                href='https://mattermost.com/pl/message-priority/'
+                                                href='https://mc.alkafeel.net/pl/message-priority/'
                                             >
                                                 {msg}
                                             </ExternalLink>
@@ -5990,7 +5990,7 @@ const AdminDefinition: AdminDefinitionType = {
                             help_text: defineMessage({id: 'admin.service.outgoingOAuthConnectionsDesc', defaultMessage: 'When true, outgoing webhooks and slash commands will use set up oauth connections to authenticate with third party services. See <link>documentation</link> to learn more.'}), // eslint-disable-line formatjs/enforce-placeholders -- placeholders provided
                             help_text_values: {
                                 link: (text: string) => (
-                                    <a href='https://mattermost.com/pl/outgoing-oauth-connections'>{text}</a>
+                                    <a href='https://mc.alkafeel.net/pl/outgoing-oauth-connections'>{text}</a>
                                 ),
                             },
                             help_text_markdown: false,
@@ -6180,7 +6180,7 @@ const AdminDefinition: AdminDefinitionType = {
                                 linkDocumentation: (msg: string) => (
                                     <ExternalLink
                                         location='admin_console'
-                                        href='https://mattermost.com/pl/default-bot-accounts'
+                                        href='https://mc.alkafeel.net/pl/default-bot-accounts'
                                     >
                                         {msg}
                                     </ExternalLink>

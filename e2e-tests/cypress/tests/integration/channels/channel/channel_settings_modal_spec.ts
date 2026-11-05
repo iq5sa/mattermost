@@ -420,7 +420,7 @@ describe('Channel Settings Modal', () => {
                 should('contain', 'italic');
 
             // # Add markdown to header
-            cy.get('#channel_settings_header_textbox').clear().type('Visit [Mattermost](https://mattermost.com)');
+            cy.get('#channel_settings_header_textbox').clear().type('Visit [Mattermost](https://mc.alkafeel.net)');
 
             // # Click preview button for header
             cy.get('#channel_settings_header_textbox').

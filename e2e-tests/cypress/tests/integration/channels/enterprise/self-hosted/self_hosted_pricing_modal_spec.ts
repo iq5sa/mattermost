@@ -169,7 +169,7 @@ describe('Self hosted Pricing modal', () => {
 
         cy.get('.air-gapped-purchase-modal').should('exist');
 
-        cy.findByText('https://mattermost.com/pl/pricing/#self-hosted').last().should('exist');
+        cy.findByText('https://mc.alkafeel.net/pl/pricing/#self-hosted').last().should('exist');
     });
 
     function withTrialBefore(trialed: string) {

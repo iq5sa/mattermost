@@ -111,7 +111,7 @@ const HeaderFooterNotLoggedIn = (props: Props) => {
                             id='company_name'
                             className='pull-right footer-site-name'
                         >
-                            {'Mattermost'}
+                            {'Alkafeel-Whatsapp'}
                         </span>
                     </div>
                     <div className='col-xs-12'>

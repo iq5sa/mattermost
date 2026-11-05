@@ -826,7 +826,7 @@
   "admin.featureDiscovery.WarningDescription": "Jūsų licencija atnaujinama, kad suteiktumėte visišką prieigą prie visų įmonės funkcijų. Šis puslapis bus automatiškai atnaujintas, kai licencijos atnaujinimas bus baigtas. Prašau palauk ",
   "admin.featureDiscovery.WarningTitle": "Bandomasis laikotarpis prasidėjo ir licencija atnaujinama.",
   "admin.feature_discovery.trial-request.accept-terms": "Spustelėjus<highlight> Pradėti bandymą</highlight> , Aš sutinku su<linkEvaluation> Mattermost programinės įrangos įvertinimo sutartis</linkEvaluation> ,<linkPrivacy> Privatumo politika</linkPrivacy> ir gauti produktų el.",
-  "admin.feature_discovery.trial-request.error": "Nepavyko gauti bandomosios licencijos. Apsilankykite<link> https://mattermost.com/trial</link> prašyti licencijos.",
+  "admin.feature_discovery.trial-request.error": "Nepavyko gauti bandomosios licencijos. Apsilankykite<link> https://mc.alkafeel.net/trial</link> prašyti licencijos.",
   "admin.feature_flags.flag": "Žymė",
   "admin.feature_flags.flag_value": "Reikšmė",
   "admin.feature_flags.introBanner": "Šios funkcijos vėliavėlės reikšmės rodo šiame egzemplioriuje įgalintų funkcijų būseną. Vertes derinimo tikslais naudoja Mattermost palaikymo komanda.",

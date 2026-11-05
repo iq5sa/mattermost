@@ -7,7 +7,7 @@ The Mattermost Desktop App is an [Electron](https://electronjs.org/) wrapper aro
 
 ## Desktop app contributor resources
  - [GitHub Repository](https://github.com/mattermost/desktop) - Get the code, report issues, or submit PRs.
- - [Help Wanted](https://mattermost.com/pl/help-wanted-desktop) - This is a good place to start if you're looking for a way to contribute code. Many issues are labeled by difficulty level to make it easier to find ways to get involved.
+ - [Help Wanted](https://mc.alkafeel.net/pl/help-wanted-desktop) - This is a good place to start if you're looking for a way to contribute code. Many issues are labeled by difficulty level to make it easier to find ways to get involved.
  - [Developer Setup](/developers/contribute/more-info/desktop/developer-setup) - Setup your development environment to start work on the desktop app.
  - [Build and CLI Commands](/developers/contribute/more-info/desktop/build-commands) - Useful commands to help build, debug, test, and modify the desktop app on your local machine.
  - [Debugging](/developers/contribute/more-info/desktop/debugging) - Identify issues in the desktop app and debug the rendering process.

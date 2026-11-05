@@ -321,7 +321,7 @@ export default class Bots extends React.PureComponent<Props, State> {
                             values={{
                                 botAccounts: (
                                     <ExternalLink
-                                        href='https://mattermost.com/pl/default-bot-accounts'
+                                        href='https://mc.alkafeel.net/pl/default-bot-accounts'
                                         location='bots'
                                     >
                                         <FormattedMessage

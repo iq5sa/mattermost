@@ -964,7 +964,7 @@
   "admin.featureDiscovery.WarningDescription": "您的授權正在更新，以便於存取所有企業版功能。授權更新完成後，此頁面將自動重新整理。請稍等 ",
   "admin.featureDiscovery.WarningTitle": "您的試用期已開始，系統正在更新授權。",
   "admin.feature_discovery.trial-request.accept-terms": "按一下<highlight>開始試用</highlight>，即表示我同意 <linkEvaluation>Mattermost 軟體評估協議</linkEvaluation>、<linkPrivacy>隱私權條款</linkPrivacy>並接收推銷電子郵件。",
-  "admin.feature_discovery.trial-request.error": "試用版授權請求失敗。請前往 <link>https://mattermost.com/trial</link> 申請新授權。",
+  "admin.feature_discovery.trial-request.error": "試用版授權請求失敗。請前往 <link>https://mc.alkafeel.net/trial</link> 申請新授權。",
   "admin.feature_flags.flag": "旗標",
   "admin.feature_flags.flag_value": "值",
   "admin.feature_flags.introBanner": "以下功能旗標顯示此實體中已啟用功能的狀態。這些值可協助 Mattermost 支援團隊偵錯。",

@@ -7409,7 +7409,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Esta licencia de prueba para Mattermost Enterprise Edition ha caducado y ya no es válida. Si desea ampliar el periodo de prueba, póngase en contacto con [nuestro equipo de ventas](https://mattermost.com/contact-us/)."
+    "translation": "Esta licencia de prueba para Mattermost Enterprise Edition ha caducado y ya no es válida. Si desea ampliar el periodo de prueba, póngase en contacto con [nuestro equipo de ventas](https://mc.alkafeel.net/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8289,7 +8289,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "No fuimos capaces de procesar la solicitud debido a limitaciones para países embargados. [Aprende más en nuestra documentación](https://mattermost.com/pl/limitations-for-embargoed-countries), o contacta a legal@mattermost.com para preguntas sobre limitaciones de exportación."
+    "translation": "No fuimos capaces de procesar la solicitud debido a limitaciones para países embargados. [Aprende más en nuestra documentación](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries), o contacta a legal@mattermost.com para preguntas sobre limitaciones de exportación."
   },
   {
     "id": "api.team.invite_members.unable_to_send_email_with_defaults.app_error",

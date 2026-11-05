@@ -1243,8 +1243,8 @@ func TestMarkdownConversion(t *testing.T) {
 		},
 		{
 			name: "markdown: links",
-			args: "This is [Mattermost](https://mattermost.com)",
-			want: "This is <a href=\"https://mattermost.com\">Mattermost</a>",
+			args: "This is [Mattermost](https://mc.alkafeel.net)",
+			want: "This is <a href=\"https://mc.alkafeel.net\">Mattermost</a>",
 		},
 		{
 			name: "markdown: strikethrough",
@@ -1287,9 +1287,9 @@ func TestMarkdownConversion(t *testing.T) {
 		},
 		{
 			name: "markdown: multiline with header and links",
-			args: "###### H6 header\n[link 1](https://mattermost.com) - [link 2](https://mattermost.com)",
+			args: "###### H6 header\n[link 1](https://mc.alkafeel.net) - [link 2](https://mc.alkafeel.net)",
 			want: "<h6>H6 header</h6>\n" +
-				"<p><a href=\"https://mattermost.com\">link 1</a> - <a href=\"https://mattermost.com\">link 2</a></p>",
+				"<p><a href=\"https://mc.alkafeel.net\">link 1</a> - <a href=\"https://mc.alkafeel.net\">link 2</a></p>",
 		},
 	}
 

@@ -668,7 +668,7 @@ DELETE FROM threadmemberships WHERE (postid, userid) IN (
 <td>New tables <code>AccessControlPolicies</code> and <code>AccessControlPolicyHistory</code> will be created. The migration is fully backwards-compatible, non-locking, and zero downtime is expected.</td>
 </tr>
 <tr>
-<td>Support for legacy SKUs E10 and E20 licenses was removed. If you need assistance, <a href="https://mattermost.com/contact-sales/">talk to a Mattermost expert</a>.</td>
+<td>Support for legacy SKUs E10 and E20 licenses was removed. If you need assistance, <a href="https://mc.alkafeel.net/contact-sales/">talk to a Mattermost expert</a>.</td>
 </tr>
 <tr>
 <td rowspan="2">v10.7</td>
@@ -1075,13 +1075,13 @@ DELETE FROM threadmemberships WHERE (postid, userid) IN (
 <td>The <code>platform</code> binary and “--platform” flag have been removed. If you are using the “--platform” flag or are using the <code>platform</code> binary directly to run the Mattermost server application via a systemd file or custom script, you will be required to use only the mattermost binary.</td>
 </tr>
 <tr>
-<td colspan="3"><a href="https://mattermost.com/blog/collapsed-reply-threads-beta/">Collapsed Reply Threads</a> are available as Beta in Mattermost Server | v5.37 and later. It’s expected that you may experience bugs as we stabilize the feature. In particular, please be aware of | <a href="/end-user-guide/collaborate/organize-conversations#known-issues">the known issues documented here</a>. |</td>
+<td colspan="3"><a href="https://mc.alkafeel.net/blog/collapsed-reply-threads-beta/">Collapsed Reply Threads</a> are available as Beta in Mattermost Server | v5.37 and later. It’s expected that you may experience bugs as we stabilize the feature. In particular, please be aware of | <a href="/end-user-guide/collaborate/organize-conversations#known-issues">the known issues documented here</a>. |</td>
 </tr>
 <tr>
 <td>v5.37 adds support for emoji standard v13.0. If you have added a custom emoji in the past that uses one of the new system names, then it is going to get overwritten by the system emoji. The workaround is to change the custom emoji name.</td>
 </tr>
 <tr>
-<td>Parts of Incident Collaboration are now available to all Mattermost editions. As part of this update, Incident Collaboration will require a minimum server version of v5.37. To learn more about what is available in each edition, visit <a href="https://mattermost.com/pricing">our pricing page</a>.</td>
+<td>Parts of Incident Collaboration are now available to all Mattermost editions. As part of this update, Incident Collaboration will require a minimum server version of v5.37. To learn more about what is available in each edition, visit <a href="https://mc.alkafeel.net/pricing">our pricing page</a>.</td>
 </tr>
 <tr>
 <td>In v5.37.8, the default for <code>ThreadAutoFollow</code> has been changed to <code>false</code>. This does not affect existing configurations where this value is already set to <code>true</code>.</td>
@@ -1101,7 +1101,7 @@ DELETE FROM threadmemberships WHERE (postid, userid) IN (
 <td>The existing password generation logic used during the bulk user import process was comparatively weak. Hence it's advised for admins to immediately reset the passwords for all the users who were generated during the bulk import process and whose password has not been changed even once.</td>
 </tr>
 <tr>
-<td colspan="3">v5.35.0 introduces a new feature to search for files. Search results for files shared in the past may be incomplete until a | <a href="/administration-guide/manage/mmctl-command-line-tool#mmctl-extract">content extraction command</a> is executed to extract | and index the content of files already in the database. Instances running Elasticsearch or Bleve search backends will also need to execute a Bulk Indexing after | the content extraction is complete. Please see more details in <a href="https://mattermost.com/blog/file-search/">this blog post</a>. |</td>
+<td colspan="3">v5.35.0 introduces a new feature to search for files. Search results for files shared in the past may be incomplete until a | <a href="/administration-guide/manage/mmctl-command-line-tool#mmctl-extract">content extraction command</a> is executed to extract | and index the content of files already in the database. Instances running Elasticsearch or Bleve search backends will also need to execute a Bulk Indexing after | the content extraction is complete. Please see more details in <a href="https://mc.alkafeel.net/blog/file-search/">this blog post</a>. |</td>
 </tr>
 <tr>
 <td>v5.34.1</td>
@@ -1116,7 +1116,7 @@ DELETE FROM threadmemberships WHERE (postid, userid) IN (
 </tr>
 <tr>
 <td rowspan="4">v5.32.0</td>
-<td><code>ExperimentalChannelOrganization</code>, <code>EnableXToLeaveChannelsFromLHS</code>, <code>CloseUnusedDirectMessages</code>, and <code>ExperimentalHideTownSquareinLHS</code> settings are only functional if the Legacy Sidebar (<code>EnableLegacySidebar</code>) is enabled since they are not compatible with the new sidebar experience. <code>ExperimentalChannelSidebarOrganization</code> has been deprecated, since the <a href="https://mattermost.com/blog/custom-collapsible-channel-categories/">new sidebar is now enabled for all users</a>.</td>
+<td><code>ExperimentalChannelOrganization</code>, <code>EnableXToLeaveChannelsFromLHS</code>, <code>CloseUnusedDirectMessages</code>, and <code>ExperimentalHideTownSquareinLHS</code> settings are only functional if the Legacy Sidebar (<code>EnableLegacySidebar</code>) is enabled since they are not compatible with the new sidebar experience. <code>ExperimentalChannelSidebarOrganization</code> has been deprecated, since the <a href="https://mc.alkafeel.net/blog/custom-collapsible-channel-categories/">new sidebar is now enabled for all users</a>.</td>
 </tr>
 <tr>
 <td>Breaking changes to the Golang client API were introduced: <code>GetPostThread</code>, <code>GetPostsForChannel</code>, <code>GetPostsSince</code>, <code>GetPostsAfter</code>, <code>GetPostsBefore</code>, and <code>GetPostsAroundLastUnread</code> now require an additional collapsedThreads parameter to be passed. Any client making use of these functions will need to update them when upgrading its dependencies.</td>
@@ -1174,7 +1174,7 @@ DELETE FROM threadmemberships WHERE (postid, userid) IN (
 </tr>
 <tr>
 <td rowspan="5">v5.24.0</td>
-<td>A new configuration setting, <code>ExtendSessionLengthWithActivity</code> automatically extends sessions to keep users logged in if they are active in their Mattermost apps. It is recommended to enable this setting to improve user experience if compliant with your organization's policies. <a href="https://mattermost.com/blog/session-expiry-experience">Learn more here</a>.</td>
+<td>A new configuration setting, <code>ExtendSessionLengthWithActivity</code> automatically extends sessions to keep users logged in if they are active in their Mattermost apps. It is recommended to enable this setting to improve user experience if compliant with your organization's policies. <a href="https://mc.alkafeel.net/blog/session-expiry-experience">Learn more here</a>.</td>
 </tr>
 <tr>
 <td><p>The <code>mattermost_http_request_duration_seconds</code> histogram metric (in Enterprise Edition) has been removed. This information was already captured by <code>mattermost_api_time</code>, which also contains the API handler name, HTTP method, and the response code.</p><p>As an example, if you are using <code>rate(mattermost_http_request_duration_seconds_sum&#123;server=~"$var"&#125;[5m]) /   rate(mattermost_http_request_duration_seconds_count&#123;server=~"$var"&#125;[5m])</code> to measure average call duration, it needs to be replaced with <code>sum(rate(mattermost_api_time_sum&#123;server=~"$var"&#125;[5m])) by (instance) /   sum(rate(mattermost_api_time_count&#123;server=~"$var"&#125;[5m])) by (instance)</code>.</p></td>

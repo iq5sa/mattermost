@@ -124,7 +124,7 @@ function getPayload(channel, withUsernameAndProfileIcon) {
     return {
         ...payload,
         username: 'payload_username',
-        icon_url: 'https://mattermost.com/wp-content/uploads/2022/02/icon_WS.png',
+        icon_url: 'https://mc.alkafeel.net/wp-content/uploads/2022/02/icon_WS.png',
     };
 }
 

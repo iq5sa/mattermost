@@ -204,7 +204,7 @@ func TestIsLegacyTrialRequest(t *testing.T) {
 	legacyTr := &TrialLicenseRequest{
 		Email:         "test@mattermost.com",
 		TermsAccepted: true,
-		SiteURL:       "https://mattermost.com",
+		SiteURL:       "https://mc.alkafeel.net",
 		SiteName:      "Mattermost",
 		Users:         100,
 	}

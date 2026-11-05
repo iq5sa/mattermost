@@ -28,7 +28,7 @@ If you are a community member seeking a review
 4. Make any necessary changes.
     * If a reviewer requests changes, your pull request will disappear from their queue of reviews.
     * Once you've addressed the concerns, re-request a review from any reviewer requesting changes.
-    * [Avoid force pushing](https://mattermost.com/blog/submitting-great-prs/#4-avoid-force-pushing).
+    * [Avoid force pushing](https://mc.alkafeel.net/blog/submitting-great-prs/#4-avoid-force-pushing).
 5. Wait for your code to be merged.
     * Larger pull requests may require more time to review.
     * Once all reviewers have approved your changes, they will handle merging your code.

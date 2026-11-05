@@ -106,10 +106,10 @@ Use [`CreatePost`](/developers/integrate/reference/server#API.CreatePost) plugin
 
 ## Troubleshoot slash commands
 
-Join the [Mattermost user community](https://mattermost.com/pl/default-ask-mattermost-community) for help troubleshooting your slash command.
+Join the [Mattermost user community](https://mc.alkafeel.net/pl/default-ask-mattermost-community) for help troubleshooting your slash command.
 
 ## Share your integration
 
-If you've built an integration for Mattermost, please consider [sharing your work](/developers/integrate/getting-started) in our [Marketplace](https://mattermost.com/marketplace/).
+If you've built an integration for Mattermost, please consider [sharing your work](/developers/integrate/getting-started) in our [Marketplace](https://mc.alkafeel.net/marketplace/).
 
-The [Marketplace](https://mattermost.com/marketplace/) lists open source integrations developed by the Mattermost community and are available for download, customization, and deployment to your private cloud or self-hosted infrastructure.
+The [Marketplace](https://mc.alkafeel.net/marketplace/) lists open source integrations developed by the Mattermost community and are available for download, customization, and deployment to your private cloud or self-hosted infrastructure.

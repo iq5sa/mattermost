@@ -9,7 +9,7 @@ From Mattermost v7.11, Mattermost Boards is a core part of the product that cann
 </Note>
 
 
-In Mattermost v7.10 and earlier releases, **[Mattermost Boards](https://mattermost.com/boards/)** is the Mattermost plugin version of Focalboard that combines project management tools with messaging and collaboration for teams of all sizes. It is installed and enabled by default in Mattermost v6.0 and later. For working with Focalboard as a standalone application, please refer to the [Personal Server Setup Guide](/developers/contribute/more-info/focalboard/personal-server-setup-guide).
+In Mattermost v7.10 and earlier releases, **[Mattermost Boards](https://mc.alkafeel.net/boards/)** is the Mattermost plugin version of Focalboard that combines project management tools with messaging and collaboration for teams of all sizes. It is installed and enabled by default in Mattermost v6.0 and later. For working with Focalboard as a standalone application, please refer to the [Personal Server Setup Guide](/developers/contribute/more-info/focalboard/personal-server-setup-guide).
 
 ## Build the plugin
 

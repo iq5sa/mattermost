@@ -3,7 +3,7 @@ title: "Contributor expectations"
 sidebar_position: 3
 ---
 
-To contribute to Mattermost, you must sign the [Contributor License Agreement](https://mattermost.com/mattermost-contributor-agreement/). Doing so adds you to our list of [Mattermost Approved Contributors](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true). 
+To contribute to Mattermost, you must sign the [Contributor License Agreement](https://mc.alkafeel.net/mattermost-contributor-agreement/). Doing so adds you to our list of [Mattermost Approved Contributors](https://docs.google.com/spreadsheets/d/1NTCeG-iL_VS9bFqtmHSfwETo5f-8MQ7oMDE5IUYJi_Y/pubhtml?gid=0&single=true). 
 Please also read our [community expectations](/developers/contribute/good-decisions/) and note that we all abide by the [Mattermost Code of Conduct (CoC)](https://handbook.mattermost.com/contributors/contributors/guidelines/contribution-guidelines), and by joining our contributor community, you agree to abide by it as well.
 
 

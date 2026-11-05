@@ -51,7 +51,7 @@ Here's a general workflow for a Mattermost developer working on the [mattermost]
     * The assets (templates, i18n, fonts, webapp) in `/opt/gitlab/embedded/service/mattermost`.
 #### Creating a pull request (PR)
 13. Commit your changes, push your branch, and [create a pull request](/developers/contribute/more-info/getting-started/contribution-checklist).
-14. Once a PR is submitted it's best practice to avoid rebasing on the base branch or force-pushing. Jesse, a developer at Mattermost, mentions this in his blog article  [Submitting Great PRs](https://mattermost.com/blog/submitting-great-prs/). When the PR is merged, all the PR's commits are automatically squashed into one commit, so you don't need to worry about having multiple commits on the PR.
+14. Once a PR is submitted it's best practice to avoid rebasing on the base branch or force-pushing. Jesse, a developer at Mattermost, mentions this in his blog article  [Submitting Great PRs](https://mc.alkafeel.net/blog/submitting-great-prs/). When the PR is merged, all the PR's commits are automatically squashed into one commit, so you don't need to worry about having multiple commits on the PR.
 15. That's it! Rejoice that you've helped make Mattermost better.
 
 ### Useful Server makefile commands

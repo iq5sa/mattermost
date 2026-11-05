@@ -58,8 +58,8 @@ describe('Collapsed Reply Threads', () => {
         // # Upload and enable "matterpoll" plugin
         cy.apiUploadAndEnablePlugin(matterpollPlugin);
 
-        // # In center post the following: /poll "Do you like https://mattermost.com?"
-        cy.postMessage('/poll "Do you like https://mattermost.com?"');
+        // # In center post the following: /poll "Do you like https://mc.alkafeel.net?"
+        cy.postMessage('/poll "Do you like https://mc.alkafeel.net?"');
 
         cy.getLastPostId().then((pollId) => {
             const threadAuthorName = user1.nickname || user1.username;
@@ -75,9 +75,9 @@ describe('Collapsed Reply Threads', () => {
             // # Visit global threads
             cy.uiClickSidebarItem('threads');
 
-            // * Text in ThreadItem should say 'username: Do you like https://mattermost.com?'
+            // * Text in ThreadItem should say 'username: Do you like https://mc.alkafeel.net?'
             cy.get('.ThreadItem').last().within(() => {
-                cy.contains(threadAuthorName + ': Do you like https://mattermost.com?').should('be.visible');
+                cy.contains(threadAuthorName + ': Do you like https://mc.alkafeel.net?').should('be.visible');
                 cy.contains('Total votes: 1').should('be.visible');
             });
 
@@ -96,9 +96,9 @@ describe('Collapsed Reply Threads', () => {
             // # Visit global threads
             cy.uiClickSidebarItem('threads');
 
-            // * Text in ThreadItem should say 'username: Do you like https://mattermost.com?'
+            // * Text in ThreadItem should say 'username: Do you like https://mc.alkafeel.net?'
             cy.get('.ThreadItem').last().within(() => {
-                cy.contains(threadAuthorName + ': Do you like https://mattermost.com?').should('be.visible');
+                cy.contains(threadAuthorName + ': Do you like https://mc.alkafeel.net?').should('be.visible');
                 cy.contains('This poll has ended. The results are:').should('be.visible');
             });
 

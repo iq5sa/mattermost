@@ -9,7 +9,7 @@ Set up your development environment for building, running, and testing Mattermos
 <Note title="Note">
 - If you're migrating from before the monorepo see the [migration notes](/developers/contribute/monorepo-migration-notes).
 - If you're developing plugins, see the plugin [developer setup](/developers/integrate/plugins/developer-setup) documentation.
-- If you are forking Mattermost to create a derivative version, you must comply with the AGPLv2 license in both source code and compiled versions and replace the Mattermost name and logo from the system, among other requirements, per the [Mattermost trademark policy](https://mattermost.com/trademark-standards-of-use/).
+- If you are forking Mattermost to create a derivative version, you must comply with the AGPLv2 license in both source code and compiled versions and replace the Mattermost name and logo from the system, among other requirements, per the [Mattermost trademark policy](https://mc.alkafeel.net/trademark-standards-of-use/).
 </Note>
 
 

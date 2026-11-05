@@ -128,7 +128,7 @@ exports[`components/PushSettings should match snapshot, licensed 1`] = `
               />
                I understand and accept the Mattermost Hosted Push Notification Service 
               <a
-                href="https://mattermost.com/hpns-terms/?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
+                href="https://mc.alkafeel.net/hpns-terms/?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
                 location="push_settings"
                 rel="noopener noreferrer"
                 target="_blank"
@@ -137,7 +137,7 @@ exports[`components/PushSettings should match snapshot, licensed 1`] = `
               </a>
                and 
               <a
-                href="https://mattermost.com/data-processing-addendum/?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
+                href="https://mc.alkafeel.net/data-processing-addendum/?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
                 location="push_settings"
                 rel="noopener noreferrer"
                 target="_blank"
@@ -177,7 +177,7 @@ exports[`components/PushSettings should match snapshot, licensed 1`] = `
               >
                 Download 
                 <a
-                  href="https://mattermost.com/pl/ios-app/?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
+                  href="https://mc.alkafeel.net/pl/ios-app/?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
                   location="push_settings"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -186,7 +186,7 @@ exports[`components/PushSettings should match snapshot, licensed 1`] = `
                 </a>
                  from iTunes. Download 
                 <a
-                  href="https://mattermost.com/pl/android-app/?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
+                  href="https://mc.alkafeel.net/pl/android-app/?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
                   location="push_settings"
                   rel="noopener noreferrer"
                   target="_blank"
@@ -195,7 +195,7 @@ exports[`components/PushSettings should match snapshot, licensed 1`] = `
                 </a>
                  from Google Play. Learn more about the 
                 <a
-                  href="https://mattermost.com/pl/setup-push-notifications?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
+                  href="https://mc.alkafeel.net/pl/setup-push-notifications?utm_source=mattermost&utm_medium=in-product&utm_content=push_settings&uid=&sid=&edition=team&server_version="
                   location="push_settings"
                   rel="noopener noreferrer"
                   target="_blank"

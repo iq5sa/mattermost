@@ -7719,7 +7719,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "由于您的工作区已申请了试用版许可证，无法应用新的试用版许可证。如果您想延长试用期，请[联系我们的销售团队](https://mattermost.com/contact-us/)。"
+    "translation": "由于您的工作区已申请了试用版许可证，无法应用新的试用版许可证。如果您想延长试用期，请[联系我们的销售团队](https://mc.alkafeel.net/contact-us/)。"
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8175,7 +8175,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "由于对禁运国家的限制，我们无法处理请求。[在我们的文档中了解更多信息](https://mattermost.com/pl/limitations-for-embargoed-countries)，或联系legal@mattermost.com了解有关出口限制的问题。"
+    "translation": "由于对禁运国家的限制，我们无法处理请求。[在我们的文档中了解更多信息](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries)，或联系legal@mattermost.com了解有关出口限制的问题。"
   },
   {
     "id": "api.getThreadsForUser.bad_only_params",
@@ -10695,15 +10695,15 @@
   },
   {
     "id": "api.user.delete_channel.not_enabled.for_admin.app_error",
-    "translation": "永久频道删除功能未启用。必须将 ServiceSettings.EnableAPIChannelDeletion 设置为 true 才能使用此命令。详情请参阅：https://mattermost.com/pl/environment-configuration-settings"
+    "translation": "永久频道删除功能未启用。必须将 ServiceSettings.EnableAPIChannelDeletion 设置为 true 才能使用此命令。详情请参阅：https://mc.alkafeel.net/pl/environment-configuration-settings"
   },
   {
     "id": "api.user.delete_team.not_enabled.for_admin.app_error",
-    "translation": "永久团队删除功能未启用。必须将 ServiceSettings.EnableAPITeamDeletion 设置为 true 才能使用此命令。详情请参阅：https://mattermost.com/pl/environment-configuration-settings"
+    "translation": "永久团队删除功能未启用。必须将 ServiceSettings.EnableAPITeamDeletion 设置为 true 才能使用此命令。详情请参阅：https://mc.alkafeel.net/pl/environment-configuration-settings"
   },
   {
     "id": "api.user.delete_user.not_enabled.for_admin.app_error",
-    "translation": "永久用户删除功能未启用。必须将 ServiceSettings.EnableAPIUserDeletion 设置为 true 才能使用此命令。详情请参阅：https://mattermost.com/pl/environment-configuration-settings"
+    "translation": "永久用户删除功能未启用。必须将 ServiceSettings.EnableAPIUserDeletion 设置为 true 才能使用此命令。详情请参阅：https://mc.alkafeel.net/pl/environment-configuration-settings"
   },
   {
     "id": "app.agents.get_agents.app_error",
@@ -11815,7 +11815,7 @@
   },
   {
     "id": "api.templates.license_need_help.info",
-    "translation": "如需了解套餐与续费选项，请 <a href=\"https://mattermost.com/contact-sales/\">联系 Mattermost 专家</a> 获取帮助。"
+    "translation": "如需了解套餐与续费选项，请 <a href=\"https://mc.alkafeel.net/contact-sales/\">联系 Mattermost 专家</a> 获取帮助。"
   },
   {
     "id": "api.templates.license_need_help.title",

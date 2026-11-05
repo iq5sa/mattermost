@@ -179,11 +179,11 @@
         "ShowFullName": true
     },
     "SupportSettings": {
-        "TermsOfServiceLink": "https://mattermost.com/pl/terms-of-use/",
-        "PrivacyPolicyLink": "https://mattermost.com/pl/privacy-policy/",
-        "AboutLink": "https://mattermost.com/default-about/",
-        "HelpLink": "https://mattermost.com/pl/help/",
-        "ReportAProblemLink": "https://mattermost.com/pl/report-a-bug",
+        "TermsOfServiceLink": "https://mc.alkafeel.net/pl/terms-of-use/",
+        "PrivacyPolicyLink": "https://mc.alkafeel.net/pl/privacy-policy/",
+        "AboutLink": "https://mc.alkafeel.net/default-about/",
+        "HelpLink": "https://mc.alkafeel.net/pl/help/",
+        "ReportAProblemLink": "https://mc.alkafeel.net/pl/report-a-bug",
         "ReportAProblemType": "link",
         "ForgotPasswordLink": "",
         "SupportEmail": "feedback@mattermost.com"
@@ -287,9 +287,9 @@
         "LoginButtonText": "With SAML"
     },
     "NativeAppSettings": {
-        "AppDownloadLink": "https://mattermost.com/download/",
-        "AndroidAppDownloadLink": "https://mattermost.com/pl/android-app/",
-        "IosAppDownloadLink": "https://mattermost.com/pl/ios-app/"
+        "AppDownloadLink": "https://mc.alkafeel.net/download/",
+        "AndroidAppDownloadLink": "https://mc.alkafeel.net/pl/android-app/",
+        "IosAppDownloadLink": "https://mc.alkafeel.net/pl/ios-app/"
     },
     "ClusterSettings": {
         "Enable": false,

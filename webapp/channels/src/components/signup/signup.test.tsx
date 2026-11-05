@@ -457,8 +457,8 @@ describe('components/signup/Signup', () => {
     });
 
     it('should show terms and privacy checkbox', async () => {
-        mockConfig.TermsOfServiceLink = 'https://mattermost.com/terms';
-        mockConfig.PrivacyPolicyLink = 'https://mattermost.com/privacy';
+        mockConfig.TermsOfServiceLink = 'https://mc.alkafeel.net/terms';
+        mockConfig.PrivacyPolicyLink = 'https://mc.alkafeel.net/privacy';
 
         const {container: signupContainer} = renderWithContext(
             <Signup/>,

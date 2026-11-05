@@ -113,9 +113,9 @@ describe('formatWithRenderer | LinkOnlyRenderer', () => {
         },
         {
             description: 'heading: multiline with header and links',
-            inputText: '###### H6 header\n[link 1](https://mattermost.com) - [link 2](https://mattermost.com)',
-            outputText: 'H6 header <a class="theme markdown__link" href="https://mattermost.com" target="_blank">' +
-            'link 1</a> - <a class="theme markdown__link" href="https://mattermost.com" target="_blank">link 2</a>',
+            inputText: '###### H6 header\n[link 1](https://mc.alkafeel.net) - [link 2](https://mc.alkafeel.net)',
+            outputText: 'H6 header <a class="theme markdown__link" href="https://mc.alkafeel.net" target="_blank">' +
+            'link 1</a> - <a class="theme markdown__link" href="https://mc.alkafeel.net" target="_blank">link 2</a>',
         },
         {
             description: 'list: 1. First ordered list item',
@@ -285,9 +285,9 @@ describe('formatWithRenderer | LinkOnlyRenderer', () => {
         },
         {
             description: 'link: link with a full-length punctuation',
-            inputText: 'Do you like https://mattermost.com/，這是第二個網址。?',
-            outputText: 'Do you like <a class="theme markdown__link" href="https://mattermost.com/" target="_blank">' +
-                'https://mattermost.com/</a>，這是第二個網址。?',
+            inputText: 'Do you like https://mc.alkafeel.net/，這是第二個網址。?',
+            outputText: 'Do you like <a class="theme markdown__link" href="https://mc.alkafeel.net/" target="_blank">' +
+                'https://mc.alkafeel.net/</a>，這是第二個網址。?',
         },
     ];
 

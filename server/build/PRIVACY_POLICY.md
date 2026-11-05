@@ -1,1 +1,1 @@
-https://mattermost.com/pl/privacy-policy/
+https://mc.alkafeel.net/pl/privacy-policy/

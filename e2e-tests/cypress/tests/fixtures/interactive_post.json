@@ -34,7 +34,7 @@
                                 "value": "<https://example.com/path|Example link>"
                             }
                         ],
-                        "thumb_url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png"
+                        "thumb_url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png"
                     }
                 ]
             }
@@ -216,7 +216,7 @@
                         "title": "v10.0.0 shipped",
                         "title_link": "https://example.com/releases/v10",
                         "text": "Highlights: interactive messages, performance fixes.",
-                        "image_url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "image_url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "footer": "CI · main · build 9001",
                         "footer_icon": "https://handbook.mattermost.com/~gitbook/image?url=https%3A%2F%2F4287631337-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fassets%252F-LorODNCmgMboJfZ7MPT%252Fsync%252F6c7ab89bca0b50a48f1d35edf13e76fd6faf5b43.svg%3Fgeneration%3D1614726374299388%26alt%3Dmedia&width=768&dpr=3&quality=100&sign=75d7e244&sv=2",
                         "ts": 1715000000
@@ -434,7 +434,7 @@
                             },
                             {
                                 "type": "image",
-                                "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                                "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                                 "alt_text": "Mattermost logo",
                                 "size": "medium"
                             },
@@ -1206,7 +1206,7 @@
                     },
                     {
                         "type": "image",
-                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Brand mark",
                         "size": "small",
                         "image_style": "person",
@@ -1222,7 +1222,7 @@
                     },
                     {
                         "type": "image",
-                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Banner",
                         "size": "stretch",
                         "horizontal_alignment": "left"
@@ -1245,7 +1245,7 @@
                     },
                     {
                         "type": "image",
-                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Mattermost logo (auto)",
                         "size": "auto"
                     },
@@ -1256,7 +1256,7 @@
                     },
                     {
                         "type": "image",
-                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Mattermost logo (xsmall)",
                         "size": "xsmall"
                     },
@@ -1267,7 +1267,7 @@
                     },
                     {
                         "type": "image",
-                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Mattermost logo (small)",
                         "size": "small"
                     },
@@ -1278,7 +1278,7 @@
                     },
                     {
                         "type": "image",
-                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Mattermost logo (medium)",
                         "size": "medium"
                     },
@@ -1289,7 +1289,7 @@
                     },
                     {
                         "type": "image",
-                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Mattermost logo (large)",
                         "size": "large"
                     },
@@ -1300,7 +1300,7 @@
                     },
                     {
                         "type": "image",
-                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Mattermost logo (stretch)",
                         "size": "stretch"
                     }
@@ -1502,7 +1502,7 @@
                         },
                         "accessory": {
                             "type": "image",
-                            "image_url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                            "image_url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                             "alt_text": "Logo"
                         }
                     },
@@ -1542,7 +1542,7 @@
                     },
                     {
                         "type": "image",
-                        "image_url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                        "image_url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                         "alt_text": "Wide banner",
                         "title": {
                             "type": "plain_text",
@@ -1770,7 +1770,7 @@
                                     },
                                     {
                                         "type": "Image",
-                                        "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                                        "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                                         "altText": "Logo inside container",
                                         "size": "Medium",
                                         "horizontalAlignment": "Center",
@@ -1863,7 +1863,7 @@
                         "body": [
                             {
                                 "type": "Image",
-                                "url": "https://mattermost.com/wp-content/uploads/2022/02/logoHorizontal.png",
+                                "url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/logoHorizontal.png",
                                 "altText": "Avatar-style crop",
                                 "size": "Small",
                                 "style": "person",

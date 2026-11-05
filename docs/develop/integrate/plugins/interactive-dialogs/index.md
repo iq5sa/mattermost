@@ -1002,7 +1002,7 @@ Below is a full example of a JSON payload that creates an interactive dialog in 
   "dialog":{
     "callback_id":"somecallbackid",
     "title":"Test Title",
-    "icon_url":"https://mattermost.com/wp-content/uploads/2022/02/icon.png",
+    "icon_url":"https://mc.alkafeel.net/wp-content/uploads/2022/02/icon.png",
     "elements":[
        {
           "display_name":"Display Name",
@@ -1193,9 +1193,9 @@ Below is a full example of a JSON payload that creates an interactive dialog in 
 
 ## Share your integration
 
-If you've built an integration for Mattermost, please consider [sharing your work](/developers/integrate/getting-started) in our [app directory](https://mattermost.com/marketplace/).
+If you've built an integration for Mattermost, please consider [sharing your work](/developers/integrate/getting-started) in our [app directory](https://mc.alkafeel.net/marketplace/).
 
-The [app directory](https://mattermost.com/marketplace/) lists open source integrations developed by the Mattermost community and are available for download, customization and deployment to your private cloud or self-hosted infrastructure.
+The [app directory](https://mc.alkafeel.net/marketplace/) lists open source integrations developed by the Mattermost community and are available for download, customization and deployment to your private cloud or self-hosted infrastructure.
 
 ## Slack compatibility
 

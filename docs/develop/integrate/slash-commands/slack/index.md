@@ -10,8 +10,8 @@ Mattermost automatically translates the data coming from Slack:
 
 1. JSON responses written for Slack, that contain the following, are translated to Mattermost markdown and rendered equivalently to Slack:
 
-    - `<>` to denote a URL link, such as `{"text": "<https://mattermost.com/>"}`.
-    - `|` within a `<>` to define linked text, such as `{"text": "Click <https://mattermost.com/|here> for a link."}`.
+    - `<>` to denote a URL link, such as `{"text": "<https://mc.alkafeel.net/>"}`.
+    - `|` within a `<>` to define linked text, such as `{"text": "Click <https://mc.alkafeel.net/|here> for a link."}`.
     - `<userid>`  to trigger a mention to a user, such as `{"text": "<5fb5f7iw8tfrfcwssd1xmx3j7y> this is a notification."}`.
     - `<!channel>`, `<!here>`, or `<!all>` to trigger a mention to a channel, such as `{"text": "<!channel> this is a notification."}`.
 

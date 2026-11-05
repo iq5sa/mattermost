@@ -180,7 +180,7 @@ If neither of the above help resolve your issue, you also have the option to cho
 
 When AD/LDAP or SAML synchronization is enabled, you can create bot accounts using the steps outlined above. These bot accounts won't require an email address.
 
-If you need to sync service accounts from AD/LDAP or SAML to Mattermost and use them as bot accounts, [please reach out to us](https://mattermost.com/contact-us) to discuss in detail. You may not need to sync service accounts and use them as bot accounts to meet your use case.
+If you need to sync service accounts from AD/LDAP or SAML to Mattermost and use them as bot accounts, [please reach out to us](https://mc.alkafeel.net/contact-us) to discuss in detail. You may not need to sync service accounts and use them as bot accounts to meet your use case.
 
 ### How are bot accounts identified in compliance exports?
 

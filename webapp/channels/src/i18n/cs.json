@@ -1119,7 +1119,7 @@
   "admin.featureDiscovery.WarningDescription": "Vaše licence je aktualizována tak, abyste měli plný přístup ke všem podnikovým funkcím. Tato stránka se automaticky obnoví po dokončení aktualizace licence. Počkejte prosím. ",
   "admin.featureDiscovery.WarningTitle": "Vaše zkušební verze byla spuštěna a probíhají aktualizace vaší licence.",
   "admin.feature_discovery.trial-request.accept-terms": "Kliknutím na <highlight>Spustit zkušební verzi</highlight> souhlasím se <linkEvaluation>Smlouvou o hodnocení softwaru Mattermost</linkEvaluation>, <linkPrivacy>Zásadami ochrany osobních údajů</linkPrivacy> a se zasíláním e-mailů o produktu.",
-  "admin.feature_discovery.trial-request.error": "Zkušební licenci se nepodařilo načíst. Navštivte <link>https://mattermost.com/trial</link> a požádejte o licenci.",
+  "admin.feature_discovery.trial-request.error": "Zkušební licenci se nepodařilo načíst. Navštivte <link>https://mc.alkafeel.net/trial</link> a požádejte o licenci.",
   "admin.feature_flags.flag": "Značka",
   "admin.feature_flags.flag_value": "Hodnota",
   "admin.feature_flags.introBanner": "Hodnoty voleb zde zobrazených představují stav nastavení na této instanci. Hodnoty jsou určeny pro ladění týmem podpory.",

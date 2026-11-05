@@ -1270,7 +1270,7 @@ func TestIsValidHTTPURL(t *testing.T) {
 		},
 		{
 			"correct url with https scheme",
-			"https://mattermost.com/api/test",
+			"https://mc.alkafeel.net/api/test",
 			true,
 		},
 		{
@@ -1285,7 +1285,7 @@ func TestIsValidHTTPURL(t *testing.T) {
 		},
 		{
 			"correct url with extra slashes",
-			"https://mattermost.com/some//url",
+			"https://mc.alkafeel.net/some//url",
 			true,
 		},
 	}

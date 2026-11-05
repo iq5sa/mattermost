@@ -6837,7 +6837,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "La clé de licence d'essai pour Mattermost Version Entreprise a expiré et n'est plus valide. Si vous voulez étendre votre période d'essai, veuillez [contacter notre équipe des ventes](https://mattermost.com/contact-us/)."
+    "translation": "La clé de licence d'essai pour Mattermost Version Entreprise a expiré et n'est plus valide. Si vous voulez étendre votre période d'essai, veuillez [contacter notre équipe des ventes](https://mc.alkafeel.net/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -7809,7 +7809,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Nous n'avons pas pu traiter votre demande en raison de limitations pour les pays sous embargos. [Vous pouvez en savoir plus dans notre documentation](https://mattermost.com/pl/limitations-for-embargoed-countries), ou adressez-vous à legal@mattermost.com pour toute question relative aux limitations d'exportation."
+    "translation": "Nous n'avons pas pu traiter votre demande en raison de limitations pour les pays sous embargos. [Vous pouvez en savoir plus dans notre documentation](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries), ou adressez-vous à legal@mattermost.com pour toute question relative aux limitations d'exportation."
   },
   {
     "id": "api.getThreadsForUser.bad_only_params",

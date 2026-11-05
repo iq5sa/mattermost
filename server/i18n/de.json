@@ -6808,7 +6808,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Die Anwendung einer neuen Testlizenz ist fehlgeschlagen, da dein Arbeitsbereich bereits eine Testlizenz hat. Wenn du deinen Testzeitraum verlängern möchtest, wende dich bitte [an unser Vertriebsteam](https://mattermost.com/contact-us/)."
+    "translation": "Die Anwendung einer neuen Testlizenz ist fehlgeschlagen, da dein Arbeitsbereich bereits eine Testlizenz hat. Wenn du deinen Testzeitraum verlängern möchtest, wende dich bitte [an unser Vertriebsteam](https://mc.alkafeel.net/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8207,7 +8207,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Wir konnten die Anfrage aufgrund von Einschränkungen für Embargoländer nicht verarbeiten. [Lerne mehr in unserer Dokumentation](https://mattermost.com/pl/limitations-for-embargoed-countries), oder kontaktiere legal@mattermost.com für Fragen rund um Exportbeschränkungen."
+    "translation": "Wir konnten die Anfrage aufgrund von Einschränkungen für Embargoländer nicht verarbeiten. [Lerne mehr in unserer Dokumentation](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries), oder kontaktiere legal@mattermost.com für Fragen rund um Exportbeschränkungen."
   },
   {
     "id": "model.member.is_valid.emails.app_error",
@@ -10733,15 +10733,15 @@
   },
   {
     "id": "api.user.delete_channel.not_enabled.for_admin.app_error",
-    "translation": "Die Funktion zum permanenten Löschen von Kanälen ist nicht aktiviert. ServiceSettings.EnableAPIChannelDeletion muss auf true gesetzt werden, um diesen Befehl zu verwenden. Siehe https://mattermost.com/pl/environment-configuration-settings für weitere Informationen"
+    "translation": "Die Funktion zum permanenten Löschen von Kanälen ist nicht aktiviert. ServiceSettings.EnableAPIChannelDeletion muss auf true gesetzt werden, um diesen Befehl zu verwenden. Siehe https://mc.alkafeel.net/pl/environment-configuration-settings für weitere Informationen"
   },
   {
     "id": "api.user.delete_team.not_enabled.for_admin.app_error",
-    "translation": "Die Funktion zum permanenten Löschen von Teams ist nicht aktiviert. ServiceSettings.EnableAPITeamDeletion muss auf true gesetzt werden, um diesen Befehl zu verwenden. Siehe https://mattermost.com/pl/environment-configuration-settings für weitere Informationen."
+    "translation": "Die Funktion zum permanenten Löschen von Teams ist nicht aktiviert. ServiceSettings.EnableAPITeamDeletion muss auf true gesetzt werden, um diesen Befehl zu verwenden. Siehe https://mc.alkafeel.net/pl/environment-configuration-settings für weitere Informationen."
   },
   {
     "id": "api.user.delete_user.not_enabled.for_admin.app_error",
-    "translation": "Die Funktion zum permanenten Löschen von Benutzern ist nicht aktiviert. ServiceSettings.EnableAPIUserDeletion muss auf true gesetzt werden, um diesen Befehl zu verwenden. Siehe https://mattermost.com/pl/environment-configuration-settings für weitere Informationen."
+    "translation": "Die Funktion zum permanenten Löschen von Benutzern ist nicht aktiviert. ServiceSettings.EnableAPIUserDeletion muss auf true gesetzt werden, um diesen Befehl zu verwenden. Siehe https://mc.alkafeel.net/pl/environment-configuration-settings für weitere Informationen."
   },
   {
     "id": "app.agents.get_agents.app_error",

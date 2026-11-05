@@ -386,7 +386,7 @@ exports[`components/marketplace/ hides search and shows web marketplace banner 1
           >
             <a
               class="ExternalBannerLink-iPYFKS jAjFfs"
-              href="https://mattermost.com/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
+              href="https://mc.alkafeel.net/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
               location="marketplace_modal"
               rel="noopener noreferrer"
               target="_blank"
@@ -538,7 +538,7 @@ exports[`components/marketplace/ should render default 1`] = `
           >
             <a
               class="ExternalBannerLink-iPYFKS jAjFfs"
-              href="https://mattermost.com/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
+              href="https://mc.alkafeel.net/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
               location="marketplace_modal"
               rel="noopener noreferrer"
               target="_blank"
@@ -732,7 +732,7 @@ exports[`components/marketplace/ should render with error banner 1`] = `
           >
             <a
               class="ExternalBannerLink-iPYFKS jAjFfs"
-              href="https://mattermost.com/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
+              href="https://mc.alkafeel.net/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
               location="marketplace_modal"
               rel="noopener noreferrer"
               target="_blank"
@@ -910,7 +910,7 @@ exports[`components/marketplace/ should render with no plugins available 1`] = `
           >
             <a
               class="ExternalBannerLink-iPYFKS jAjFfs"
-              href="https://mattermost.com/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
+              href="https://mc.alkafeel.net/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
               location="marketplace_modal"
               rel="noopener noreferrer"
               target="_blank"
@@ -1130,7 +1130,7 @@ exports[`components/marketplace/ should render with plugins available 1`] = `
           >
             <a
               class="ExternalBannerLink-iPYFKS jAjFfs"
-              href="https://mattermost.com/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
+              href="https://mc.alkafeel.net/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
               location="marketplace_modal"
               rel="noopener noreferrer"
               target="_blank"
@@ -1440,7 +1440,7 @@ exports[`components/marketplace/ should render with plugins installed 1`] = `
           >
             <a
               class="ExternalBannerLink-iPYFKS jAjFfs"
-              href="https://mattermost.com/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
+              href="https://mc.alkafeel.net/marketplace?utm_source=mattermost&utm_medium=in-product&utm_content=marketplace_modal&uid=user1&sid=&edition=team&server_version="
               location="marketplace_modal"
               rel="noopener noreferrer"
               target="_blank"

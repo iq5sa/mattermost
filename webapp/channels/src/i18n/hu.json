@@ -828,7 +828,7 @@
   "admin.featureDiscovery.WarningDescription": "Licencét módosítjuk, hogy teljes hozzáférést biztosítsunk Önnek az összes Enterprise funkcióhoz. Ez az oldal automatikusan frissül, amint a licenc módosítása befejeződött. Kérjük, várjon ",
   "admin.featureDiscovery.WarningTitle": "A próbaidőszak megkezdődött, és a licenc frissítése folyamatban van.",
   "admin.feature_discovery.trial-request.accept-terms": "A <highlight>Próbaidőszak indítása</highlight> gombra kattintással elfogadom <linkEvaluation>a Mattermost Szoftver Felhasználási Megállapodást</linkEvaluation>, <linkPrivacy>az adatvédelmi irányelveket</linkPrivacy> és a termékről szóló e-mailek fogadását.",
-  "admin.feature_discovery.trial-request.error": "A próba licencet nem lehetett lekérni. Látogasson el a <link>https://mattermost.com/trial</link> oldalra a licenc igényléséhez.",
+  "admin.feature_discovery.trial-request.error": "A próba licencet nem lehetett lekérni. Látogasson el a <link>https://mc.alkafeel.net/trial</link> oldalra a licenc igényléséhez.",
   "admin.feature_flags.flag": "Jelölő",
   "admin.feature_flags.flag_value": "Érték",
   "admin.feature_flags.introBanner": "Az alábbi funkció jelölő értékek mutatják a telepítésben engedélyezett szolgáltatások állapotát. Az értékek csak a Mattermost támogató csoport hibakeresésére szolgálnak.",

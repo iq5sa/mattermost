@@ -24,7 +24,7 @@ import LoadingScreen from 'components/loading_screen';
 import SystemPermissionGate from 'components/permissions_gates/system_permission_gate';
 import LogoutIcon from 'components/widgets/icons/fa_logout_icon';
 
-import logoImage from 'images/logo.png';
+import logoImage from 'images/login-logo.png';
 import Constants from 'utils/constants';
 
 import SelectTeamItem from './components/select_team_item';
@@ -33,7 +33,7 @@ import './select_team.scss';
 
 export const TEAMS_PER_PAGE = 30;
 const TEAM_MEMBERSHIP_DENIAL_ERROR_ID = 'api.team.add_members.user_denied';
-const MATTERMOST_ACADEMY_TEAM_TRAINING_LINK = 'https://mattermost.com/pl/mattermost-academy-team-training';
+const MATTERMOST_ACADEMY_TEAM_TRAINING_LINK = 'https://mc.alkafeel.net/pl/mattermost-academy-team-training';
 
 type Actions = {
     getTeams: (page?: number, perPage?: number, includeTotalCount?: boolean, excludePolicyConstrained?: boolean, forDirectory?: boolean) => Promise<ActionResult<unknown>>;

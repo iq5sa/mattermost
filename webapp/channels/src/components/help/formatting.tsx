@@ -284,8 +284,8 @@ const HelpFormatting = (): JSX.Element => {
                         </thead>
                         <tbody>
                             <tr>
-                                <td><code>{'[Check out Mattermost!](https://mattermost.com/)'}</code></td>
-                                <td><a href='https://mattermost.com/'>{'Check out Mattermost!'}</a></td>
+                                <td><code>{'[Check out Mattermost!](https://mc.alkafeel.net/)'}</code></td>
+                                <td><a href='https://mc.alkafeel.net/'>{'Check out Mattermost!'}</a></td>
                             </tr>
                         </tbody>
                     </table>

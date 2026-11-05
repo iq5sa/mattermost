@@ -115,7 +115,7 @@ func (ps *PlatformService) LoadLicense() {
 
 			ps.SetLicense(ps.LicenseManager().NewMattermostEntryLicense(ps.telemetryId))
 		} else {
-			ps.logger.Warn("License key from https://mattermost.com required to unlock enterprise features.", mlog.Err(nErr))
+			ps.logger.Warn("License key from https://mc.alkafeel.net required to unlock enterprise features.", mlog.Err(nErr))
 			ps.SetLicense(nil)
 		}
 		return

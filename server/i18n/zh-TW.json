@@ -7951,7 +7951,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "無法套用新的試用授權。您先前已在此 Mattermost 個體套用過試用授權…若您想延長試用期，請[洽我們的銷售團隊](https://mattermost.com/contact-us/)。"
+    "translation": "無法套用新的試用授權。您先前已在此 Mattermost 個體套用過試用授權…若您想延長試用期，請[洽我們的銷售團隊](https://mc.alkafeel.net/contact-us/)。"
   },
   {
     "id": "api.license_error",
@@ -9035,7 +9035,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "我們無法為受禁令限制的國家處理請求。[請參閱文件以了解詳情](https://mattermost.com/pl/limitations-for-embargoed-countries)，或透過 legal@mattermost.com 詢問關於出口限制的問題。"
+    "translation": "我們無法為受禁令限制的國家處理請求。[請參閱文件以了解詳情](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries)，或透過 legal@mattermost.com 詢問關於出口限制的問題。"
   },
   {
     "id": "api.server.hosted_signup_unavailable.error",

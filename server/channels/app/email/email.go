@@ -268,7 +268,7 @@ func (es *Service) SendCloudWelcomeEmail(userEmail, locale, teamInviteID, workSp
 	if es.config().NativeAppSettings.AppDownloadLink != nil && *es.config().NativeAppSettings.AppDownloadLink != "" {
 		data.Props["DownloadMMAppsLink"] = es.config().NativeAppSettings.AppDownloadLink
 	} else {
-		data.Props["DownloadMMAppsLink"] = "https://mattermost.com/pl/download-apps"
+		data.Props["DownloadMMAppsLink"] = "https://mc.alkafeel.net/pl/download-apps"
 	}
 	data.Props["Button"] = T("api.templates.cloud_welcome_email.button")
 	data.Props["GettingStartedQuestions"] = T("api.templates.cloud_welcome_email.start_questions")
@@ -1029,7 +1029,7 @@ func (es *Service) SendLicenseUpForRenewalEmail(email, locale string, daysToExpi
 	data.Props["SiteURL"] = siteURL
 	data.Props["Title"] = T("api.templates.license_up_for_renewal_title")
 	data.Props["Button"] = T("api.templates.license_up_for_renewal_contact_sales")
-	data.Props["ButtonURL"] = "https://mattermost.com/contact-sales/"
+	data.Props["ButtonURL"] = "https://mc.alkafeel.net/contact-sales/"
 	data.Props["NeedHelpTitle"] = T("api.templates.license_need_help.title")
 	data.Props["SubTitleTwo"] = T("api.templates.license_up_for_renewal_subtitle_two")
 	data.HTML["SubTitle"] = i18n.TranslateAsHTML(T, "api.templates.license_up_for_renewal_subtitle", map[string]any{"SkuName": skuName, "SiteURL": siteURL, "SiteName": siteName, "Days": daysToExpiration})
@@ -1059,7 +1059,7 @@ func (es *Service) SendRemoveExpiredLicenseEmail(email, locale string) error {
 	data.Props["SiteURL"] = siteURL
 	data.Props["Title"] = T("api.templates.remove_expired_license.body.heading")
 	data.Props["Button"] = T("api.templates.license_up_for_renewal_contact_sales")
-	data.Props["ButtonURL"] = "https://mattermost.com/contact-sales/"
+	data.Props["ButtonURL"] = "https://mc.alkafeel.net/contact-sales/"
 	data.Props["NeedHelpTitle"] = T("api.templates.license_need_help.title")
 	data.Props["SubTitleTwo"] = T("api.templates.remove_expired_license.body.subtitle_two")
 	data.HTML["SubTitle"] = i18n.TranslateAsHTML(T, "api.templates.remove_expired_license.body.subtitle", map[string]any{"SkuName": skuName, "SiteURL": siteURL, "SiteName": siteName})

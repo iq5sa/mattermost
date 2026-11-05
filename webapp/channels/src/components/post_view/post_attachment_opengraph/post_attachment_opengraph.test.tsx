@@ -76,7 +76,7 @@ describe('PostAttachmentOpenGraph', () => {
         root_id: 'root_id',
         channel_id: 'channel_id',
         create_at: 1,
-        message: 'https://mattermost.com',
+        message: 'https://mc.alkafeel.net',
         metadata: {
             images: {
                 [imageUrl]: {

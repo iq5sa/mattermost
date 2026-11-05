@@ -1,7 +1,7 @@
 Before filing a bug report, please check the following:
 
 1. Confirm you’re filing a new issue. [Search existing tickets in Jira](https://mattermost.atlassian.net/jira/software/c/projects/MM/issues/) and [existing issues in GitHub](https://github.com/mattermost/mattermost/issues) to ensure that the ticket does not already exist.
-2. Confirm your issue does not involve security. Please submit security issues via our [Responsible Disclosure Policy](https://mattermost.com/security-vulnerability-report/).
+2. Confirm your issue does not involve security. Please submit security issues via our [Responsible Disclosure Policy](https://mc.alkafeel.net/security-vulnerability-report/).
 3. Confirm your issue is not a feature request. Please submit feature requests on [UserVoice](https://mattermost.uservoice.com/forums/306457-general).
 4. Confirm your issue is not a troubleshooting question. Please submit troubleshooting questions on the [forum](https://forum.mattermost.com/).
 5. File a bug report using the format below. Mattermost will confirm steps to reproduce and file in Jira, or ask for more details if there is trouble reproducing it. If there's already an existing bug in Jira, it will be linked back to the GitHub issue so you can track when it gets fixed.

@@ -39,9 +39,9 @@ function AirGappedContactSalesModal() {
                 <div className='contact-sales-link'>
                     <ExternalLink
                         location='air_gapped_contact_sales_modal'
-                        href='https://mattermost.com/contact-sales/'
+                        href='https://mc.alkafeel.net/contact-sales/'
                     >
-                        {'https://mattermost.com/contact-sales/'}
+                        {'https://mc.alkafeel.net/contact-sales/'}
                     </ExternalLink>
                 </div>
                 <div className='image'>

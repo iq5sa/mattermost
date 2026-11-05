@@ -990,7 +990,7 @@
   "admin.featureDiscovery.WarningDescription": "Sua licença está sendo atualizada para lhe dar acesso total a todos os recursos empresariais. Esta página será atualizada automaticamente assim que a atualização da licença for concluída. Por favor, aguarde ",
   "admin.featureDiscovery.WarningTitle": "Sua avaliação começou e atualizações estão sendo feitas em sua licença.",
   "admin.feature_discovery.trial-request.accept-terms": "Ao clicar em <highlight>Iniciar avaliação</highlight>, eu concordo com o <linkEvaluation>Contrato de avaliação de software Mattermost</linkEvaluation>, com a <linkPrivacy>Política de Privacidade</linkPrivacy> e com o recebimento de e-mails de produtos.",
-  "admin.feature_discovery.trial-request.error": "Não foi possível recuperar a licença de avaliação. Visite <link>https://mattermost.com/trial</link> para solicitar uma licença.",
+  "admin.feature_discovery.trial-request.error": "Não foi possível recuperar a licença de avaliação. Visite <link>https://mc.alkafeel.net/trial</link> para solicitar uma licença.",
   "admin.feature_flags.flag": "Indicador",
   "admin.feature_flags.flag_value": "Valor",
   "admin.feature_flags.introBanner": "Os valores dos indicadores de recurso exibidos aqui mostram o status dos recursos habilitados neste servidor. Os valores aqui são apenas para uso de depuração pela equipe de suporte do Mattermost.",

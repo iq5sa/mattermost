@@ -38,7 +38,7 @@ describe('Customization', () => {
         cy.findByTestId('SupportSettings.ReportAProblemLinkhelp-text').find('span').should('be.visible').and('have.text', 'Enter the URL that users will be directed to when they choose "Report a Problem".');
 
         // # Enter a problem link
-        const reportAProblemLink = 'https://mattermost.com/pl/report-a-bug';
+        const reportAProblemLink = 'https://mc.alkafeel.net/pl/report-a-bug';
         cy.findByTestId('SupportSettings.ReportAProblemLinkinput').clear().type(reportAProblemLink);
 
         // # Save setting
@@ -178,7 +178,7 @@ describe('Customization', () => {
     });
 
     it('MM-T1213 Can change About Link setting', () => {
-        const newAboutLink = 'https://mattermost.com/';
+        const newAboutLink = 'https://mc.alkafeel.net/';
 
         // * Verify that setting is visible and has the correct label text
         cy.findByTestId('SupportSettings.AboutLinklabel').scrollIntoView().should('be.visible').and('have.text', 'About Link:');

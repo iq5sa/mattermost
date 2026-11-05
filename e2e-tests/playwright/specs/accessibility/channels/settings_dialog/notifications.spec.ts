@@ -103,7 +103,7 @@ test(
           - tabpanel "notifications":
             - heading "Notifications" [level=3]
             - link "Learn more about notifications":
-              - /url: https://mattermost.com/pl/about-notifications?utm_source=mattermost&utm_medium=in-product&utm_content=user_settings_notifications&uid=${user.id}&sid=${clientConfig.DiagnosticId}&edition=enterprise&server_version=${clientConfig.Version}
+              - /url: https://mc.alkafeel.net/pl/about-notifications?utm_source=mattermost&utm_medium=in-product&utm_content=user_settings_notifications&uid=${user.id}&sid=${clientConfig.DiagnosticId}&edition=enterprise&server_version=${clientConfig.Version}
               - img
             - heading "Desktop and mobile notifications Permission required" [level=4]:
               - img

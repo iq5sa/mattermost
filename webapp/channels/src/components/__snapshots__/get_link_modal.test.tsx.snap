@@ -61,7 +61,7 @@ exports[`components/GetLinkModal should have called onHide when close button is 
             id="linkModalTextArea"
             readonly=""
           >
-            https://mattermost.com
+            https://mc.alkafeel.net
           </textarea>
         </div>
         <div
@@ -153,7 +153,7 @@ exports[`components/GetLinkModal should have called onHide when close button is 
             id="linkModalTextArea"
             readonly=""
           >
-            https://mattermost.com
+            https://mc.alkafeel.net
           </textarea>
         </div>
         <div
@@ -250,7 +250,7 @@ exports[`components/GetLinkModal should match snapshot when all props is set 1`]
             id="linkModalTextArea"
             readonly=""
           >
-            https://mattermost.com
+            https://mc.alkafeel.net
           </textarea>
         </div>
         <div
@@ -342,7 +342,7 @@ exports[`components/GetLinkModal should match snapshot when helpText is not set 
             id="linkModalTextArea"
             readonly=""
           >
-            https://mattermost.com
+            https://mc.alkafeel.net
           </textarea>
         </div>
         <div

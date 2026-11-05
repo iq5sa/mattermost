@@ -25,7 +25,7 @@ describe('components/LinkingLandingPage (connected)', () => {
                     config: {
                         SiteURL: siteUrl,
                         SiteName: 'Mattermost',
-                        AppDownloadLink: 'https://mattermost.com/download/',
+                        AppDownloadLink: 'https://mc.alkafeel.net/download/',
                         EnableDesktopLandingPage: enableDesktopLandingPage,
                     },
                 },

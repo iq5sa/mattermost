@@ -186,7 +186,7 @@ Access the following configuration settings in the System Console by going to **
 </colgroup>
 <tbody>
 <tr>
-<td><blockquote><ul><li><strong>true</strong>: <strong>(Default)</strong> A link to the <a href="https://mattermost.com/community/">Mattermost Community</a> appears as <strong>Ask the community</strong> under the <strong>Help</strong> menu in the channel header.</li><li><strong>false</strong>: The link does not appear.</li></ul><p>The link does not display on mobile apps.</p></blockquote></td>
+<td><blockquote><ul><li><strong>true</strong>: <strong>(Default)</strong> A link to the <a href="https://mc.alkafeel.net/community/">Mattermost Community</a> appears as <strong>Ask the community</strong> under the <strong>Help</strong> menu in the channel header.</li><li><strong>false</strong>: The link does not appear.</li></ul><p>The link does not display on mobile apps.</p></blockquote></td>
 <td><blockquote><ul><li>System Config path: <strong>Site Configuration &gt; Customization</strong></li><li><code>config.json</code> setting: <code>SupportSettings</code> &gt; <code>EnableAskCommunityLink</code> &gt; <code>true</code></li><li>Environment variable: <code>MM_SUPPORTSETTINGS_ENABLEASKCOMMUNITYLINK</code></li></ul></blockquote></td>
 </tr>
 </tbody>
@@ -222,7 +222,7 @@ If this value is empty, the Help link is hidden on the login and sign up pages. 
 </colgroup>
 <tbody>
 <tr>
-<td><p>This field sets the URL for the Terms of Use of a self-hosted site. A link to the terms appears at the bottom of the sign-up and login pages.</p><p>The default URL links to a <a href="https://mattermost.com/terms-of-use/">Terms of Use</a> page hosted on <code>mattermost.com</code>. This includes the Mattermost Acceptable Use Policy explaining the terms under which Mattermost software is provided to end users. If you change the default link to add your own terms, the new terms <strong>must include a link</strong> to the default terms so end users are aware of the Mattermost Acceptable Use Policy.</p><p>String input. Default is <code>https://about.mattermost.com/default-terms/</code>.</p></td>
+<td><p>This field sets the URL for the Terms of Use of a self-hosted site. A link to the terms appears at the bottom of the sign-up and login pages.</p><p>The default URL links to a <a href="https://mc.alkafeel.net/terms-of-use/">Terms of Use</a> page hosted on <code>mattermost.com</code>. This includes the Mattermost Acceptable Use Policy explaining the terms under which Mattermost software is provided to end users. If you change the default link to add your own terms, the new terms <strong>must include a link</strong> to the default terms so end users are aware of the Mattermost Acceptable Use Policy.</p><p>String input. Default is <code>https://about.mattermost.com/default-terms/</code>.</p></td>
 <td><ul><li>System Config path: <strong>Site Configuration &gt; Customization</strong></li><li><code>config.json</code> setting: <code>SupportSettings</code> &gt; <code>TermsOfServiceLink</code></li><li>Environment variable: <code>MM_SUPPORTSETTINGS_TERMSOFSERVICELINK</code></li></ul></td>
 </tr>
 </tbody>
@@ -230,7 +230,7 @@ If this value is empty, the Help link is hidden on the login and sign up pages. 
 
 <Note>
 
-\- Customers with a Mattermost subscription may replace or override the Acceptable Use Policy with their own acceptable use or conduct policies, based on contractual terms with Mattermost, so long as your own terms either incorporate the Acceptable Use Policy or include equivalent terms. If you change the default link to add your own terms for using the service you provide, your new terms must include a [link to the default terms](https://mattermost.com/terms-of-use/#acceptable-use-policy) so end users are aware of the Mattermost Acceptable Use Policy for Mattermost software. - This setting is applicable to self-hosted deployments only and doesn't change the **Terms of Use** link in the **About Mattermost** window.
+\- Customers with a Mattermost subscription may replace or override the Acceptable Use Policy with their own acceptable use or conduct policies, based on contractual terms with Mattermost, so long as your own terms either incorporate the Acceptable Use Policy or include equivalent terms. If you change the default link to add your own terms for using the service you provide, your new terms must include a [link to the default terms](https://mc.alkafeel.net/terms-of-use/#acceptable-use-policy) so end users are aware of the Mattermost Acceptable Use Policy for Mattermost software. - This setting is applicable to self-hosted deployments only and doesn't change the **Terms of Use** link in the **About Mattermost** window.
 
 </Note>
 
@@ -301,7 +301,7 @@ This configuration setting applies to all Mattermost clients, including web, des
 
 With self-hosted deployments, you can specify how the **Report a Problem** option behaves in the Mattermost app via the **Help** menu:
 
-- **Default**: Customers with a Mattermost license can open a support case by email with the Mattermost support team. Unlicensed Mattermost deployments are directed to the [troubleshooting forums](https://mattermost.com/pl/report_a_problem_unlicensed).
+- **Default**: Customers with a Mattermost license can open a support case by email with the Mattermost support team. Unlicensed Mattermost deployments are directed to the [troubleshooting forums](https://mc.alkafeel.net/pl/report_a_problem_unlicensed).
 - **Email address**: Enables you to [enter an email address](/administration-guide/configure/site-configuration-settings#report-a-problem-email-address) that users will be prompted to send a message to when they choose **Report a Problem** in Mattermost.
 - **Custom link**: Enables you to [enter a URL](/administration-guide/configure/site-configuration-settings#report-a-problem-link) that users will be directed to when they choose **Report a Problem** in Mattermost.
 - **Hide link**: Removes the **Report a Problem** option from Mattermost.
@@ -315,7 +315,7 @@ With self-hosted deployments, you can specify how the **Report a Problem** optio
 </colgroup>
 <tbody>
 <tr>
-<td><p>This field sets the URL for the <strong>Report a Problem</strong> link in the channel header <strong>Help</strong> menu. If this field is empty the link does not appear.</p><p>String input. Default is <code>https://mattermost.com/pl/report-a-bug</code>.</p></td>
+<td><p>This field sets the URL for the <strong>Report a Problem</strong> link in the channel header <strong>Help</strong> menu. If this field is empty the link does not appear.</p><p>String input. Default is <code>https://mc.alkafeel.net/pl/report-a-bug</code>.</p></td>
 <td><ul><li>System Config path: <strong>Site Configuration &gt; Customization</strong></li><li><code>config.json</code> setting: <code>SupportSettings</code> &gt; <code>ReportAProblemLink</code></li><li>Environment variable: <code>MM_SUPPORTSETTINGS_REPORTAPROBLEMLINK</code></li></ul></td>
 </tr>
 </tbody>
@@ -378,7 +378,7 @@ This setting is applicable to self-hosted deployments only.
 </colgroup>
 <tbody>
 <tr>
-<td><p>This field sets the URL for the Download Apps link in the <strong>Product</strong> menu. If this field is empty, the link does not appear.</p><p>If you have an Enterprise App Store, set the link to the appropriate download page for your Mattermost apps.</p><p>String input. Default is <code>https://mattermost.com/pl/download-apps</code>.</p></td>
+<td><p>This field sets the URL for the Download Apps link in the <strong>Product</strong> menu. If this field is empty, the link does not appear.</p><p>If you have an Enterprise App Store, set the link to the appropriate download page for your Mattermost apps.</p><p>String input. Default is <code>https://mc.alkafeel.net/pl/download-apps</code>.</p></td>
 <td><ul><li>System Config path: <strong>Site Configuration &gt; Customization</strong></li><li><code>config.json</code> setting: <code>NativeAppSettings</code> &gt; <code>AppDownloadLink</code></li><li>Environment variable: <code>MM_NATIVEAPPSETTINGS_APPDOWNLOADLINK</code></li></ul></td>
 </tr>
 </tbody>
@@ -399,7 +399,7 @@ This setting is applicable to self-hosted deployments only.
 </colgroup>
 <tbody>
 <tr>
-<td><p>This field sets the URL to download the Mattermost Android app. Users who access the Mattermost site on a mobile browser will be prompted to download the app through this link. If this field is empty, the prompt does not appear.</p><p>If you have an Enterprise App Store, link to your Android app.</p><p>String input. Default is <code>https://mattermost.com/pl/android-app/</code>.</p></td>
+<td><p>This field sets the URL to download the Mattermost Android app. Users who access the Mattermost site on a mobile browser will be prompted to download the app through this link. If this field is empty, the prompt does not appear.</p><p>If you have an Enterprise App Store, link to your Android app.</p><p>String input. Default is <code>https://mc.alkafeel.net/pl/android-app/</code>.</p></td>
 <td><ul><li>System Config path: <strong>Site Configuration &gt; Customization</strong></li><li><code>config.json</code> setting: <code>NativeAppSettings</code> &gt; <code>AndroidAppDownloadLink</code></li><li>Environment variable: <code>MM_NATIVEAPPSETTINGS_ANDROIDAPPDOWNLOADLINK</code></li></ul></td>
 </tr>
 </tbody>
@@ -420,7 +420,7 @@ This setting is applicable to self-hosted deployments only.
 </colgroup>
 <tbody>
 <tr>
-<td><p>This field sets the URL to download the Mattermost iOS app. Users who access the site on a mobile browser will be prompted to download the app through this link. If this field is empty, the prompt does not appear.</p><p>If you use an Enterprise App Store, link to your iOS app.</p><p>String input. Default is <code>https://mattermost.com/pl/ios-app/</code>.</p></td>
+<td><p>This field sets the URL to download the Mattermost iOS app. Users who access the site on a mobile browser will be prompted to download the app through this link. If this field is empty, the prompt does not appear.</p><p>If you use an Enterprise App Store, link to your iOS app.</p><p>String input. Default is <code>https://mc.alkafeel.net/pl/ios-app/</code>.</p></td>
 <td><ul><li>System Config path: <strong>Site Configuration &gt; Customization</strong></li><li><code>config.json</code> setting: <code>NativeAppSettings</code> &gt; <code>IosAppDownloadLink</code></li><li>Environment variable: <code>MM_NATIVEAPPSETTINGS_IOSAPPDOWNLOADLINK</code></li></ul></td>
 </tr>
 </tbody>
@@ -1456,7 +1456,7 @@ Customers upgrading from a legacy Mattermost release prior to v7.0 must review t
 
 <Tip>
 
-[Mattermost Enterprise or Professional](https://mattermost.com/pricing) customers can additionally request message acknowledgements to track that specific, time-sensitive messages have been seen and actioned. See the [message priority](/end-user-guide/collaborate/message-priority) documentation to learn more.
+[Mattermost Enterprise or Professional](https://mc.alkafeel.net/pricing) customers can additionally request message acknowledgements to track that specific, time-sensitive messages have been seen and actioned. See the [message priority](/end-user-guide/collaborate/message-priority) documentation to learn more.
 
 </Tip>
 

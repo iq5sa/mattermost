@@ -5,7 +5,7 @@ sidebar_position: 50
 
 Mattermost allows for a variety of customization options and modifications, making it possible to create a more adequate experience depending on the needs of each deployment.
 
-There are a few limitations regarding [how the re-branding of Mattermost](https://mattermost.com/trademark-standards-of-use/) must be handled, such as the fact that changes to the Enterprise Edition's source code isn't supported. However these limitations can be overcome with the utilization of [Plugins](/developers/integrate/plugins).
+There are a few limitations regarding [how the re-branding of Mattermost](https://mc.alkafeel.net/trademark-standards-of-use/) must be handled, such as the fact that changes to the Enterprise Edition's source code isn't supported. However these limitations can be overcome with the utilization of [Plugins](/developers/integrate/plugins).
 
 # Customizable components
 

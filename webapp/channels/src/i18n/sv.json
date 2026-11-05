@@ -1166,7 +1166,7 @@
   "admin.feature_discovery.contact_sales": "Kontakta försäljning",
   "admin.feature_discovery.learn_more": "Lär dig mer",
   "admin.feature_discovery.trial-request.accept-terms": "Genom att klicka på <highlight>Starta prova-på-period</highlight> godkänner jag <linkEvaluation>Mattermost Software Evaluation Agreement</linkEvaluation>, <linkPrivacy>Privacy Policy</linkPrivacy> och att få mejl med produktinformation.",
-  "admin.feature_discovery.trial-request.error": "Testlicens kunde inte hämtas. Besök <link>https://mattermost.com/trial/</link> för att efterfråga en licens.",
+  "admin.feature_discovery.trial-request.error": "Testlicens kunde inte hämtas. Besök <link>https://mc.alkafeel.net/trial/</link> för att efterfråga en licens.",
   "admin.feature_flags.flag": "Flagga",
   "admin.feature_flags.flag_value": "Värde",
   "admin.feature_flags.introBanner": "Följande värden för funktionsflaggor visar statusen för funktioner som är aktiverade i den här instansen. Värdena används för felsökning av Mattermosts supportteam.",

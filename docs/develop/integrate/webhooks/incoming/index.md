@@ -92,7 +92,7 @@ Content-Length: 630
 {
   "channel": "town-square",
   "username": "test-automation",
-  "icon_url": "https://mattermost.com/wp-content/uploads/2022/02/icon.png",
+  "icon_url": "https://mc.alkafeel.net/wp-content/uploads/2022/02/icon.png",
   "text": "#### Test results for July 27th, 2017\n@channel please review failed tests.\n\n| Component  | Tests Run   | Tests Failed                                   |\n|:-----------|:-----------:|:-----------------------------------------------|\n| Server     | 948         | :white_check_mark: 0                           |\n| Web Client | 123         | :warning: 2 [(see details)](https://linktologs) |\n| iOS Client | 78          | :warning: 3 [(see details)](https://linktologs) |"
 }
 ```
@@ -132,8 +132,8 @@ Mattermost automatically translates the data coming from Slack:
 
 1. JSON payloads written for Slack, that contain the following, are translated to Mattermost markdown and rendered equivalently to Slack:
 
-    - `<>` to denote a URL link, such as `{"text": "<https://mattermost.com/>"}`
-    - `|` within a `<>` to define linked text, such as `{"text": "Click <https://mattermost.com/|here> for a link."}`
+    - `<>` to denote a URL link, such as `{"text": "<https://mc.alkafeel.net/>"}`
+    - `|` within a `<>` to define linked text, such as `{"text": "Click <https://mc.alkafeel.net/|here> for a link."}`
     - `<userid>`  to trigger a mention to a user, such as `{"text": "<5fb5f7iw8tfrfcwssd1xmx3j7y> this is a notification."}`
     - `<!channel>`, `<!here>`, or `<!all>` to trigger a mention to a channel, such as `{"text": "<!channel> this is a notification."}`
 
@@ -197,5 +197,5 @@ If your integration prints the JSON payload data instead of rendering the genera
 #### Why aren't my message attachments rendering?
 Make sure `attachments` is a **top-level field** in your webhook JSON payload, not nested inside `props`. While the REST API uses `props.attachments`, incoming webhooks expect `attachments` at the top level.
 
-For further assistance, review the [Troubleshooting forum](https://forum.mattermost.org/t/how-to-use-the-troubleshooting-forum/150) for previously reported errors, or [join the Mattermost user community](https://mattermost.com/pl/default-ask-mattermost-community/) for troubleshooting help.
+For further assistance, review the [Troubleshooting forum](https://forum.mattermost.org/t/how-to-use-the-troubleshooting-forum/150) for previously reported errors, or [join the Mattermost user community](https://mc.alkafeel.net/pl/default-ask-mattermost-community/) for troubleshooting help.
 

@@ -2806,7 +2806,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Kunne ikke anvende ny prøvelicens, da dit arbejdsområde allerede har anvendt en prøvelicens. Hvis du ønsker at forlænge din prøveperiode, bedes du [kontakte vores salgsteam](https://mattermost.com/contact-us/)."
+    "translation": "Kunne ikke anvende ny prøvelicens, da dit arbejdsområde allerede har anvendt en prøvelicens. Hvis du ønsker at forlænge din prøveperiode, bedes du [kontakte vores salgsteam](https://mc.alkafeel.net/contact-us/)."
   },
   {
     "id": "api.license.request_trial_license.app_error",
@@ -2814,7 +2814,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Vi kunne ikke behandle anmodningen på grund af begrænsninger for embargerede lande. [Læs mere i vores dokumentation](https://mattermost.com/pl/limitations-for-embargoed-countries), eller kontakt legal@mattermost.com for spørgsmål om eksportbegrænsninger."
+    "translation": "Vi kunne ikke behandle anmodningen på grund af begrænsninger for embargerede lande. [Læs mere i vores dokumentation](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries), eller kontakt legal@mattermost.com for spørgsmål om eksportbegrænsninger."
   },
   {
     "id": "api.license.upgrade_needed.app_error",
@@ -4264,7 +4264,7 @@
   },
   {
     "id": "api.templates.license_need_help.info",
-    "translation": "<a href=\"https://mattermost.com/contact-sales/\">Tal med en Mattermost-ekspert</a> for hjælp med planer og fornyelsesmuligheder."
+    "translation": "<a href=\"https://mc.alkafeel.net/contact-sales/\">Tal med en Mattermost-ekspert</a> for hjælp med planer og fornyelsesmuligheder."
   },
   {
     "id": "api.templates.license_need_help.title",
@@ -4744,7 +4744,7 @@
   },
   {
     "id": "api.user.delete_channel.not_enabled.for_admin.app_error",
-    "translation": "Funktionen til permanent sletning af kanaler er ikke aktiveret. ServiceSettings.EnableAPIChannelDeletion skal sættes til true for at bruge denne kommando. Se https://mattermost.com/pl/environment-configuration-settings for mere information"
+    "translation": "Funktionen til permanent sletning af kanaler er ikke aktiveret. ServiceSettings.EnableAPIChannelDeletion skal sættes til true for at bruge denne kommando. Se https://mc.alkafeel.net/pl/environment-configuration-settings for mere information"
   },
   {
     "id": "api.user.delete_team.not_enabled.app_error",
@@ -4752,7 +4752,7 @@
   },
   {
     "id": "api.user.delete_team.not_enabled.for_admin.app_error",
-    "translation": "Funktionen til permanent sletning af teams er ikke aktiveret. ServiceSettings.EnableAPITeamDeletion skal sættes til true for at bruge denne kommando. Se https://mattermost.com/pl/environment-configuration-settings for mere information."
+    "translation": "Funktionen til permanent sletning af teams er ikke aktiveret. ServiceSettings.EnableAPITeamDeletion skal sættes til true for at bruge denne kommando. Se https://mc.alkafeel.net/pl/environment-configuration-settings for mere information."
   },
   {
     "id": "api.user.delete_user.not_enabled.app_error",
@@ -4760,7 +4760,7 @@
   },
   {
     "id": "api.user.delete_user.not_enabled.for_admin.app_error",
-    "translation": "Funktionen til permanent sletning af brugere er ikke aktiveret. ServiceSettings.EnableAPIUserDeletion skal sættes til true for at bruge denne kommando. Se https://mattermost.com/pl/environment-configuration-settings for mere information."
+    "translation": "Funktionen til permanent sletning af brugere er ikke aktiveret. ServiceSettings.EnableAPIUserDeletion skal sættes til true for at bruge denne kommando. Se https://mc.alkafeel.net/pl/environment-configuration-settings for mere information."
   },
   {
     "id": "api.user.demote_user_to_guest.already_guest.app_error",

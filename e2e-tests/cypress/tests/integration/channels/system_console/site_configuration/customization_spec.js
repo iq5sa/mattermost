@@ -200,7 +200,7 @@ describe('Customization', () => {
 **This has been bolded**
 ~~This has been strikethrough~~
 *This has been italicized*
-[This is a link to mattermost.com](https://mattermost.com)
+[This is a link to mattermost.com](https://mc.alkafeel.net)
 \`This is inline code\``;
 
         // # Update custom brand text
@@ -237,7 +237,7 @@ describe('Customization', () => {
                 cy.get('em').should('be.visible').and('have.text', 'This has been italicized');
 
                 // * Ensure the link has been rendered
-                cy.get('a.markdown__link').should('be.visible').and('have.text', 'This is a link to mattermost.com').and('have.attr', 'href', 'https://mattermost.com');
+                cy.get('a.markdown__link').should('be.visible').and('have.text', 'This is a link to mattermost.com').and('have.attr', 'href', 'https://mc.alkafeel.net');
 
                 // * Ensure the inline code has been rendered
                 cy.get('.codespan__pre-wrap').should('be.visible').and('have.text', 'This is inline code');

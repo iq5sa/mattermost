@@ -172,7 +172,7 @@ const Completed = (props: Props): JSX.Element => {
                     <span className='completed-subtitle'>
                         <FormattedMessage
                             id={'onboardingTask.checklist.completed_subtitle'}
-                            defaultMessage='We hope Mattermost is more familiar now.'
+                            defaultMessage='We hope Alkafeel-Whatsapp is more familiar now.'
                         />
                     </span>
 
@@ -223,7 +223,7 @@ const Completed = (props: Props): JSX.Element => {
                                         link: (msg: React.ReactNode) => (
                                             <ExternalLink
                                                 location='onboarding_tasklist_completed'
-                                                href='https://mattermost.com/download#desktop'
+                                                href='https://mc.alkafeel.net/download#desktop'
                                             >
                                                 {msg}
                                             </ExternalLink>

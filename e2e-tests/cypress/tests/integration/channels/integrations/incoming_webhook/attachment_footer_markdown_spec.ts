@@ -61,7 +61,7 @@ describe('Integrations/Incoming Webhook', () => {
             channel: testChannel.name,
             attachments: [{
                 text: 'Attachment with link in footer',
-                footer: 'Visit [Mattermost](https://mattermost.com) for more info',
+                footer: 'Visit [Mattermost](https://mc.alkafeel.net) for more info',
             }],
         };
 
@@ -69,7 +69,7 @@ describe('Integrations/Incoming Webhook', () => {
 
         cy.getLastPost().within(() => {
             cy.get('.attachment__footer-container').within(() => {
-                cy.get('a.markdown__link[href="https://mattermost.com"]').should('have.text', 'Mattermost');
+                cy.get('a.markdown__link[href="https://mc.alkafeel.net"]').should('have.text', 'Mattermost');
             });
         });
     });

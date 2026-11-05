@@ -3,7 +3,7 @@ title: "Contribute code"
 sidebar_position: 1
 ---
 
-This site is for developers who want to contribute code to the core Mattermost project. If you’re looking for other ways to contribute, [head over to our website](https://mattermost.com/contribute/). Before getting started, it’s a good idea to review our guide on [integrating and extending Mattermost](/developers/integrate/getting-started) because you might be able to build the improvements you want without needing to contribute them upstream.
+This site is for developers who want to contribute code to the core Mattermost project. If you’re looking for other ways to contribute, [head over to our website](https://mc.alkafeel.net/contribute/). Before getting started, it’s a good idea to review our guide on [integrating and extending Mattermost](/developers/integrate/getting-started) because you might be able to build the improvements you want without needing to contribute them upstream.
 
 
 ## Technical overview
@@ -21,7 +21,7 @@ Improvements to Mattermost may require you to contribute to multiple projects; i
 
 ## How to contribute code
 
-If you’re looking for an existing issue to help with, check out the [help wanted tickets on GitHub](https://mattermost.com/pl/help-wanted). If you see any that you’re interested in working on, comment on it to let everyone know you’re working on it. If there’s no ticket for what you want to contribute, see our guide on [contributing without a ticket.](/contributions-without-ticket)
+If you’re looking for an existing issue to help with, check out the [help wanted tickets on GitHub](https://mc.alkafeel.net/pl/help-wanted). If you see any that you’re interested in working on, comment on it to let everyone know you’re working on it. If there’s no ticket for what you want to contribute, see our guide on [contributing without a ticket.](/contributions-without-ticket)
 
 Once you’ve created some code that you want to contribute, follow our [pull request checklist](/contribution-checklist) to submit your contribution for [review](/code-review), and one of our [core committers](/developers/contribute/more-info/getting-started/core-committers) will reach out with any feedback, questions, or requests they have.
 

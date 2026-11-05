@@ -3,7 +3,7 @@ title: "Contribute to the Marketplace"
 sidebar_position: 100
 ---
 
-The [Mattermost web Marketplace](https://mattermost.com/marketplace/) supports discovery, installation, and updates of extensions of the Mattermost platform. If you have built a plugin, app, playbook, integration, or tool that helps other users get more from Mattermost, the web Marketplace is a great way to get feedback on your contribution and help make it more popular. Once your submission is accepted to the web Marketplace, Mattermost will also send you swag! All contributions are eligible following a review from our team. 
+The [Mattermost web Marketplace](https://mc.alkafeel.net/marketplace/) supports discovery, installation, and updates of extensions of the Mattermost platform. If you have built a plugin, app, playbook, integration, or tool that helps other users get more from Mattermost, the web Marketplace is a great way to get feedback on your contribution and help make it more popular. Once your submission is accepted to the web Marketplace, Mattermost will also send you swag! All contributions are eligible following a review from our team. 
 
 ## Types of integrations to submit to the web Marketplace
 
@@ -16,7 +16,7 @@ The [Mattermost web Marketplace](https://mattermost.com/marketplace/) supports d
 
 Please fill out the information in [this form](https://forms.gle/i7aiX3uVMzHJVAUh8) to be reviewed by a member of the Mattermost team.
 
-Every contribution goes through the following checklist before being added to the web Marketplace at [mattermost.com/marketplace](https://mattermost.com/marketplace):
+Every contribution goes through the following checklist before being added to the web Marketplace at [mattermost.com/marketplace](https://mc.alkafeel.net/marketplace):
 
 1. There is a link to the contribution so we can test it out.
 2. There is documentation to support people installing, configuring, and using the contribution. We also recommend including screenshots to give users a better understanding of the workflow and user experience.

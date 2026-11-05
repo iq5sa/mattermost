@@ -6101,7 +6101,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Немагчыма прымяніць новую пробную ліцэнзію, бо ў вашым працоўным прасторы ўжо прымянялася пробная ліцэнзія. Калі вы хочаце падоўжыць пробны перыяд, калі ласка, [звяжыцеся з нашым аддзелам продажаў](https://mattermost.com/contact-us/)."
+    "translation": "Немагчыма прымяніць новую пробную ліцэнзію, бо ў вашым працоўным прасторы ўжо прымянялася пробная ліцэнзія. Калі вы хочаце падоўжыць пробны перыяд, калі ласка, [звяжыцеся з нашым аддзелам продажаў](https://mc.alkafeel.net/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8201,7 +8201,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Мы не змаглі апрацаваць запыт з-за абмежаванняў для краін, на якія накладзена эбарга. [Даведайцеся больш у нашай дакументацыі](https://mattermost.com/pl/limitations-for-embargoed-countries), або звярніцеся ў legal@mattermost.com з пытаннямі аб абмежаваннях экспарту."
+    "translation": "Мы не змаглі апрацаваць запыт з-за абмежаванняў для краін, на якія накладзена эбарга. [Даведайцеся больш у нашай дакументацыі](https://mc.alkafeel.net/pl/limitations-for-embargoed-countries), або звярніцеся ў legal@mattermost.com з пытаннямі аб абмежаваннях экспарту."
   },
   {
     "id": "api.getThreadsForUser.bad_only_params",
@@ -10701,15 +10701,15 @@
   },
   {
     "id": "api.user.delete_channel.not_enabled.for_admin.app_error",
-    "translation": "Функцыя назаўждыга выдалення канала не ўключана. ServiceSettings.EnableAPIChannelDeletion павінна быць устаноўлена ў true, каб выкарыстоўваць гэту каманду. Глядзіце https://mattermost.com/pl/environment-configuration-settings для атрымання дадатковай інфармацыі"
+    "translation": "Функцыя назаўждыга выдалення канала не ўключана. ServiceSettings.EnableAPIChannelDeletion павінна быць устаноўлена ў true, каб выкарыстоўваць гэту каманду. Глядзіце https://mc.alkafeel.net/pl/environment-configuration-settings для атрымання дадатковай інфармацыі"
   },
   {
     "id": "api.user.delete_team.not_enabled.for_admin.app_error",
-    "translation": "Функцыя назаўждыга выдалення каманды не ўключана. ServiceSettings.EnableAPITeamDeletion павінна быць устаноўлена ў true, каб выкарыстоўваць гэту каманду. Глядзіце https://mattermost.com/pl/environment-configuration-settings для атрымання дадатковай інфармацыі."
+    "translation": "Функцыя назаўждыга выдалення каманды не ўключана. ServiceSettings.EnableAPITeamDeletion павінна быць устаноўлена ў true, каб выкарыстоўваць гэту каманду. Глядзіце https://mc.alkafeel.net/pl/environment-configuration-settings для атрымання дадатковай інфармацыі."
   },
   {
     "id": "api.user.delete_user.not_enabled.for_admin.app_error",
-    "translation": "Функцыя назаўждыга выдалення карыстальніка не ўключана. ServiceSettings.EnableAPIUserDeletion павінна быць устаноўлена ў true, каб выкарыстоўваць гэту каманду. Глядзіце https://mattermost.com/pl/environment-configuration-settings для атрымання дадатковай інфармацыі."
+    "translation": "Функцыя назаўждыга выдалення карыстальніка не ўключана. ServiceSettings.EnableAPIUserDeletion павінна быць устаноўлена ў true, каб выкарыстоўваць гэту каманду. Глядзіце https://mc.alkafeel.net/pl/environment-configuration-settings для атрымання дадатковай інфармацыі."
   },
   {
     "id": "app.agents.get_agents.app_error",

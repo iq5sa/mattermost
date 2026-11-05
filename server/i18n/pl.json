@@ -6889,7 +6889,7 @@
   },
   {
     "id": "api.license.request-trial.can-start-trial.not-allowed",
-    "translation": "Nie udało się zastosować nowej licencji próbnej, ponieważ Twój obszar roboczy ma już licencję próbną. Jeśli chcesz przedłużyć okres próbny, skontaktuj się z naszym zespołem sprzedaży (https://mattermost.com/contact-us/)."
+    "translation": "Nie udało się zastosować nowej licencji próbnej, ponieważ Twój obszar roboczy ma już licencję próbną. Jeśli chcesz przedłużyć okres próbny, skontaktuj się z naszym zespołem sprzedaży (https://mc.alkafeel.net/contact-us/)."
   },
   {
     "id": "api.license.request-trial.can-start-trial.error",
@@ -8201,7 +8201,7 @@
   },
   {
     "id": "api.license.request_trial_license.embargoed",
-    "translation": "Nie mogliśmy przetworzyć tego żądania z powodu ograniczeń dotyczących krajów objętych embargiem. [Dowiedz się więcej w naszej dokumentacji] (https://mattermost.com/pl/limitations-for-embargoed-countries), a w przypadku pytań dotyczących ograniczeń eksportu skontaktuj się z legal@mattermost.com."
+    "translation": "Nie mogliśmy przetworzyć tego żądania z powodu ograniczeń dotyczących krajów objętych embargiem. [Dowiedz się więcej w naszej dokumentacji] (https://mc.alkafeel.net/pl/limitations-for-embargoed-countries), a w przypadku pytań dotyczących ograniczeń eksportu skontaktuj się z legal@mattermost.com."
   },
   {
     "id": "api.getThreadsForUser.bad_only_params",
@@ -10737,15 +10737,15 @@
   },
   {
     "id": "api.user.delete_channel.not_enabled.for_admin.app_error",
-    "translation": "Funkcja trwałego usuwania kanałów nie jest włączona. ServiceSettings.EnableAPIChannelDeletion musi mieć wartość true, aby można było użyć tego polecenia. Więcej informacji znajdziesz na stronie https://mattermost.com/pl/environment-configuration-settings"
+    "translation": "Funkcja trwałego usuwania kanałów nie jest włączona. ServiceSettings.EnableAPIChannelDeletion musi mieć wartość true, aby można było użyć tego polecenia. Więcej informacji znajdziesz na stronie https://mc.alkafeel.net/pl/environment-configuration-settings"
   },
   {
     "id": "api.user.delete_team.not_enabled.for_admin.app_error",
-    "translation": "Funkcja trwałego usunięcia zespołu nie jest włączona. ServiceSettings.EnableAPITeamDeletion musi mieć wartość true, aby można było użyć tego polecenia. Więcej informacji znajdziesz na stronie https://mattermost.com/pl/environment-configuration-settings."
+    "translation": "Funkcja trwałego usunięcia zespołu nie jest włączona. ServiceSettings.EnableAPITeamDeletion musi mieć wartość true, aby można było użyć tego polecenia. Więcej informacji znajdziesz na stronie https://mc.alkafeel.net/pl/environment-configuration-settings."
   },
   {
     "id": "api.user.delete_user.not_enabled.for_admin.app_error",
-    "translation": "Funkcja trwałego usunięcia użytkownika nie jest włączona. ServiceSettings.EnableAPIUserDeletion musi być ustawione na true, aby móc korzystać z tego polecenia. Więcej informacji znajdziesz na stronie https://mattermost.com/pl/environment-configuration-settings."
+    "translation": "Funkcja trwałego usunięcia użytkownika nie jest włączona. ServiceSettings.EnableAPIUserDeletion musi być ustawione na true, aby móc korzystać z tego polecenia. Więcej informacji znajdziesz na stronie https://mc.alkafeel.net/pl/environment-configuration-settings."
   },
   {
     "id": "app.agents.get_agents.app_error",
@@ -12005,7 +12005,7 @@
   },
   {
     "id": "api.templates.license_need_help.info",
-    "translation": "<a href=\"https://mattermost.com/contact-sales/\">Porozmawiaj z ekspertem Mattermost</a>, aby uzyskać pomoc dotyczącą planów i opcji odnowienia."
+    "translation": "<a href=\"https://mc.alkafeel.net/contact-sales/\">Porozmawiaj z ekspertem Mattermost</a>, aby uzyskać pomoc dotyczącą planów i opcji odnowienia."
   },
   {
     "id": "api.templates.license_need_help.title",

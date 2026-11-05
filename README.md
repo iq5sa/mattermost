@@ -1,16 +1,16 @@
-# [![Mattermost logo](https://user-images.githubusercontent.com/7205829/137170381-fe86eef0-bccc-4fdd-8e92-b258884ebdd7.png)](https://mattermost.com)
+# [![Mattermost logo](https://user-images.githubusercontent.com/7205829/137170381-fe86eef0-bccc-4fdd-8e92-b258884ebdd7.png)](https://mc.alkafeel.net)
 
-[Mattermost](https://mattermost.com) is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration. This repo is the primary source for core development on the Mattermost platform; it's written in Go and React, runs as a single Linux binary, and relies on PostgreSQL. A new compiled version is released under an MIT license every month on the 16th.
+[Mattermost](https://mc.alkafeel.net) is an open core, self-hosted collaboration platform that offers chat, workflow automation, voice calling, screen sharing, and AI integration. This repo is the primary source for core development on the Mattermost platform; it's written in Go and React, runs as a single Linux binary, and relies on PostgreSQL. A new compiled version is released under an MIT license every month on the 16th.
 
-[Deploy Mattermost on-premises](https://mattermost.com/deploy/?utm_source=github-mattermost-server-readme), or [try it for free in the cloud](https://mattermost.com/sign-up/?utm_source=github-mattermost-server-readme).
+[Deploy Mattermost on-premises](https://mc.alkafeel.net/deploy/?utm_source=github-mattermost-server-readme), or [try it for free in the cloud](https://mc.alkafeel.net/sign-up/?utm_source=github-mattermost-server-readme).
 
 <img width="1006" alt="mattermost user interface" src="https://user-images.githubusercontent.com/7205829/136107976-7a894c9e-290a-490d-8501-e5fdbfc3785a.png">
 
 Learn more about the following use cases with Mattermost:
 
-- [DevSecOps](https://mattermost.com/solutions/use-cases/devops/?utm_source=github-mattermost-server-readme)
-- [Incident Resolution](https://mattermost.com/solutions/use-cases/incident-resolution/?utm_source=github-mattermost-server-readme)
-- [IT Service Desk](https://mattermost.com/solutions/use-cases/it-service-desk/?utm_source=github-mattermost-server-readme)
+- [DevSecOps](https://mc.alkafeel.net/solutions/use-cases/devops/?utm_source=github-mattermost-server-readme)
+- [Incident Resolution](https://mc.alkafeel.net/solutions/use-cases/incident-resolution/?utm_source=github-mattermost-server-readme)
+- [IT Service Desk](https://mc.alkafeel.net/solutions/use-cases/it-service-desk/?utm_source=github-mattermost-server-readme)
 
 Other useful resources:
 
@@ -33,7 +33,7 @@ Table of contents
 ## Install Mattermost
 
 - [Download and Install Mattermost Self-Hosted](https://docs.mattermost.com/guides/deployment.html) - Deploy a Mattermost Self-hosted instance in minutes via Docker, Ubuntu, or tar.
-- [Get started in the cloud](https://mattermost.com/sign-up/?utm_source=github-mattermost-server-readme) to try Mattermost today.
+- [Get started in the cloud](https://mc.alkafeel.net/sign-up/?utm_source=github-mattermost-server-readme) to try Mattermost today.
 - [Developer machine setup](https://developers.mattermost.com/contribute/server/developer-setup) - Follow this guide if you want to write code for Mattermost.
 
 
@@ -49,15 +49,15 @@ Other install guides:
 
 ## Native mobile and desktop apps
 
-In addition to the web interface, you can also download Mattermost clients for [Android](https://mattermost.com/pl/android-app/), [iOS](https://mattermost.com/pl/ios-app/), [Windows PC](https://docs.mattermost.com/install/desktop-app-install.html#windows-10-windows-8-1), [macOS](https://docs.mattermost.com/install/desktop-app-install.html#macos-10-9), and [Linux](https://docs.mattermost.com/install/desktop-app-install.html#linux).
+In addition to the web interface, you can also download Mattermost clients for [Android](https://mc.alkafeel.net/pl/android-app/), [iOS](https://mc.alkafeel.net/pl/ios-app/), [Windows PC](https://docs.mattermost.com/install/desktop-app-install.html#windows-10-windows-8-1), [macOS](https://docs.mattermost.com/install/desktop-app-install.html#macos-10-9), and [Linux](https://docs.mattermost.com/install/desktop-app-install.html#linux).
 
-[<img src="https://user-images.githubusercontent.com/30978331/272826427-6200c98f-7319-42c3-86d4-0b33ae99e01a.png" alt="Get Mattermost on Google Play" height="50px"/>](https://mattermost.com/pl/android-app/)  [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Get Mattermost on the App Store" height="50px"/>](https://itunes.apple.com/us/app/mattermost/id1257222717?mt=8)  [![Get Mattermost on Windows PC](https://user-images.githubusercontent.com/33878967/33095357-39cab8d2-ceb8-11e7-89a6-67dccc571ca3.png)](https://docs.mattermost.com/install/desktop.html#windows-10-windows-8-1-windows-7)  [![Get Mattermost on Mac OSX](https://user-images.githubusercontent.com/33878967/33095355-39a36f2a-ceb8-11e7-9b33-73d4f6d5d6c1.png)](https://docs.mattermost.com/install/desktop.html#macos-10-9)  [![Get Mattermost on Linux](https://user-images.githubusercontent.com/33878967/33095354-3990e256-ceb8-11e7-965d-b00a16e578de.png)](https://docs.mattermost.com/install/desktop.html#linux)
+[<img src="https://user-images.githubusercontent.com/30978331/272826427-6200c98f-7319-42c3-86d4-0b33ae99e01a.png" alt="Get Mattermost on Google Play" height="50px"/>](https://mc.alkafeel.net/pl/android-app/)  [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Get Mattermost on the App Store" height="50px"/>](https://itunes.apple.com/us/app/mattermost/id1257222717?mt=8)  [![Get Mattermost on Windows PC](https://user-images.githubusercontent.com/33878967/33095357-39cab8d2-ceb8-11e7-89a6-67dccc571ca3.png)](https://docs.mattermost.com/install/desktop.html#windows-10-windows-8-1-windows-7)  [![Get Mattermost on Mac OSX](https://user-images.githubusercontent.com/33878967/33095355-39a36f2a-ceb8-11e7-9b33-73d4f6d5d6c1.png)](https://docs.mattermost.com/install/desktop.html#macos-10-9)  [![Get Mattermost on Linux](https://user-images.githubusercontent.com/33878967/33095354-3990e256-ceb8-11e7-965d-b00a16e578de.png)](https://docs.mattermost.com/install/desktop.html#linux)
 
 ## Get security bulletins
 
 Receive notifications of critical security updates. The sophistication of online attackers is perpetually increasing. If you're deploying Mattermost it's highly recommended you subscribe to the Mattermost Security Bulletin mailing list for updates on critical security releases.
 
-[Subscribe here](https://mattermost.com/security-updates/#sign-up)
+[Subscribe here](https://mc.alkafeel.net/security-updates/#sign-up)
 
 ## Get involved
 
@@ -69,8 +69,8 @@ Receive notifications of critical security updates. The sophistication of online
 ## Learn more
 
 - [API options - webhooks, slash commands, drivers, and web service](https://api.mattermost.com/)
-- [See who's using Mattermost](https://mattermost.com/customers/)
-- [Browse over 700 Mattermost integrations](https://mattermost.com/marketplace/)
+- [See who's using Mattermost](https://mc.alkafeel.net/customers/)
+- [Browse over 700 Mattermost integrations](https://mc.alkafeel.net/marketplace/)
 
 ## License
 
@@ -79,7 +79,7 @@ See the [LICENSE file](LICENSE.txt) for license rights and limitations.
 ## Get the latest news
 
 - **X** - Follow [Mattermost on X, formerly Twitter](https://twitter.com/mattermost).
-- **Blog** - Get the latest updates from the [Mattermost blog](https://mattermost.com/blog/).
+- **Blog** - Get the latest updates from the [Mattermost blog](https://mc.alkafeel.net/blog/).
 - **Facebook** - Follow [Mattermost on Facebook](https://www.facebook.com/MattermostHQ).
 - **LinkedIn** - Follow [Mattermost on LinkedIn](https://www.linkedin.com/company/mattermost/).
 - **Email** - Subscribe to our [newsletter](https://mattermost.us11.list-manage.com/subscribe?u=6cdba22349ae374e188e7ab8e&id=2add1c8034) (1 or 2 per month).

@@ -61,7 +61,7 @@ const SearchHint = (props: Props): JSX.Element => {
                                     <ExternalLink
                                         location='search_hint'
                                         className='search-hint_learn-search'
-                                        href='https://mattermost.com/pl/mattermost-academy-search-training'
+                                        href='https://mc.alkafeel.net/pl/mattermost-academy-search-training'
                                     >
                                         <span>{chunks}</span>
                                         <i className='icon icon-lightbulb-outline'/>

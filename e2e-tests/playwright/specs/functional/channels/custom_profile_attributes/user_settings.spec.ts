@@ -304,7 +304,7 @@ test('MM-T5771 Editing Phone and URL Type Custom Profile Attributes @custom_prof
     // 3. Edit PhoneUS field and change to "555-987-6543"
     await editTextAttribute(page, attributeFieldsMap, 'PhoneUS', TEST_UPDATED_PHONE);
 
-    // 4. Edit WebsiteUS field and change to "https://mattermost.com"
+    // 4. Edit WebsiteUS field and change to "https://mc.alkafeel.net"
     await editTextAttribute(page, attributeFieldsMap, 'WebsiteUS', TEST_UPDATED_URL);
 
     // 5. Close the profile settings modal

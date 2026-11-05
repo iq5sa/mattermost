@@ -1340,7 +1340,7 @@
   "admin.feature_discovery.contact_sales": "Контакты отдела продаж",
   "admin.feature_discovery.learn_more": "Учить больше",
   "admin.feature_discovery.trial-request.accept-terms": "Нажимая <highlight>Начать пробную версию</highlight>, я соглашаюсь с условиями <linkEvaluation>Соглашенем об оценке программного обеспечения Mattermost</linkEvaluation>, <linkPrivacy>Политикой конфиденциальности</linkPrivacy> и получением электронных писем о продуктах.",
-  "admin.feature_discovery.trial-request.error": "Не удалось получить пробную лицензию. Посетите сайт <link>https://mattermost.com/trial</link>, чтобы запросить лицензию.",
+  "admin.feature_discovery.trial-request.error": "Не удалось получить пробную лицензию. Посетите сайт <link>https://mc.alkafeel.net/trial</link>, чтобы запросить лицензию.",
   "admin.feature_flags.flag": "Отметить",
   "admin.feature_flags.flag_value": "Значение",
   "admin.feature_flags.introBanner": "Значения флагов функций, отображаемых здесь, показывают состояние функций, включенных на данном сервере. Значения здесь предназначены только для отладки командой поддержки Mattermost.",

@@ -2378,7 +2378,7 @@ func testSearchURLsPostgres(t *testing.T, th *SearchTestHelper) {
 	// Create posts with various URL formats
 	fullUrlId := createPost("check out https://example.com/path/to/page for more info")
 	urlNoProtocolId := createPost("visit example.org/docs today")
-	urlNoPathId := createPost("go to https://mattermost.com for details")
+	urlNoPathId := createPost("go to https://mc.alkafeel.net for details")
 	urlNoProtocolNoPathId := createPost("see testsite.io now")
 	httpUrlId := createPost("old link http://legacy.example.net/old")
 
@@ -2404,7 +2404,7 @@ func testSearchURLsPostgres(t *testing.T, th *SearchTestHelper) {
 		},
 		{
 			name:        "Search URL with protocol but without path does not match",
-			terms:       "https://mattermost.com",
+			terms:       "https://mc.alkafeel.net",
 			expectedIDs: []string{},
 		},
 		{

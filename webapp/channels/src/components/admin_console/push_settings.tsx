@@ -210,7 +210,7 @@ export class PushSettings extends OLDAdminSettings<Props, State> {
                     values={{
                         linkIOS: (msg) => (
                             <ExternalLink
-                                href='https://mattermost.com/pl/ios-app/'
+                                href='https://mc.alkafeel.net/pl/ios-app/'
                                 location='push_settings'
                             >
                                 {msg}
@@ -218,7 +218,7 @@ export class PushSettings extends OLDAdminSettings<Props, State> {
                         ),
                         linkAndroid: (msg) => (
                             <ExternalLink
-                                href='https://mattermost.com/pl/android-app/'
+                                href='https://mc.alkafeel.net/pl/android-app/'
                                 location='push_settings'
                             >
                                 {msg}
@@ -243,7 +243,7 @@ export class PushSettings extends OLDAdminSettings<Props, State> {
                     values={{
                         linkIOS: (msg) => (
                             <ExternalLink
-                                href='https://mattermost.com/pl/ios-app/'
+                                href='https://mc.alkafeel.net/pl/ios-app/'
                                 location='push_settings'
                             >
                                 {msg}
@@ -251,7 +251,7 @@ export class PushSettings extends OLDAdminSettings<Props, State> {
                         ),
                         linkAndroid: (msg) => (
                             <ExternalLink
-                                href='https://mattermost.com/pl/android-app/'
+                                href='https://mc.alkafeel.net/pl/android-app/'
                                 location='push_settings'
                             >
                                 {msg}
@@ -305,7 +305,7 @@ export class PushSettings extends OLDAdminSettings<Props, State> {
                             values={{
                                 linkTerms: (msg) => (
                                     <ExternalLink
-                                        href='https://mattermost.com/hpns-terms/'
+                                        href='https://mc.alkafeel.net/hpns-terms/'
                                         location='push_settings'
                                     >
                                         {msg}
@@ -313,7 +313,7 @@ export class PushSettings extends OLDAdminSettings<Props, State> {
                                 ),
                                 linkPrivacy: (msg) => (
                                     <ExternalLink
-                                        href='https://mattermost.com/data-processing-addendum/'
+                                        href='https://mc.alkafeel.net/data-processing-addendum/'
                                         location='push_settings'
                                     >
                                         {msg}
