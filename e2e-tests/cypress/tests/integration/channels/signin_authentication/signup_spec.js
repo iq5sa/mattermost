@@ -120,7 +120,7 @@ describe('Signup Email page', () => {
             const todaysDate = new Date();
             const currentYear = todaysDate.getFullYear();
 
-            cy.get('.footer-copyright').should('contain', `© ${currentYear} Mattermost Inc.`);
+            cy.get('.footer-copyright').should('contain', `© ${currentYear} Alkfeel Inc.`);
         });
     });
 
