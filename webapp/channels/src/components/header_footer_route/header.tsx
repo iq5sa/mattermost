@@ -26,7 +26,7 @@ const Header = ({alternateLink, backButtonURL, logo, onBackButtonClick}: HeaderP
     const license = useSelector(getLicense);
 
     const ariaLabel = SiteName || 'Alkafeel-Whatsapp';
-    const headerLogo = logo ?? <Logo/>;
+    const headerLogo = logo ?? <Logo className='header-logo-image'/>;
 
     let freeBanner = null;
     if (license.IsLicensed === 'false') {

@@ -14,7 +14,7 @@ import LDAPToEmail from 'components/claim/components/ldap_to_email';
 import OAuthToEmail from 'components/claim/components/oauth_to_email';
 import BackButton from 'components/common/back_button';
 
-import logoImage from 'images/login-logo.png';
+import logoImage from '../../images/header-logo.png';
 
 export interface PasswordConfig {
     minimumLength: number;

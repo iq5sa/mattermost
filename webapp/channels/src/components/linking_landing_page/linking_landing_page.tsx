@@ -13,9 +13,10 @@ import ExternalLink from 'components/external_link';
 
 import desktopImg from 'images/deep-linking/deeplinking-desktop-img.png';
 import mobileImg from 'images/deep-linking/deeplinking-mobile-img.png';
-import MattermostLogoSvg from 'images/login-logo.png';
 import {navigateTo} from 'utils/browser_utils';
 import {LandingPreferenceTypes} from 'utils/constants';
+
+import MattermostLogoSvg from '../../images/header-logo.png';
 
 type Props = {
     desktopAppLink?: string;
@@ -242,12 +243,20 @@ export default class LinkingLandingPage extends PureComponent<Props, State> {
 
         if (isMobile) {
             return (
-                <img src={mobileImg}/>
+                <img
+                    src={mobileImg}
+                    alt=''
+                    aria-hidden='true'
+                />
             );
         }
 
         return (
-            <img src={desktopImg}/>
+            <img
+                src={desktopImg}
+                alt=''
+                aria-hidden='true'
+            />
         );
     };
 
@@ -448,6 +457,7 @@ export default class LinkingLandingPage extends PureComponent<Props, State> {
                 <img
                     src={MattermostLogoSvg}
                     className='get-app__logo'
+                    alt={this.props.siteName || 'Mattermost'}
                 />
             </div>
         );
@@ -485,7 +495,10 @@ export default class LinkingLandingPage extends PureComponent<Props, State> {
         }
 
         return (
-            <div className='get-app'>
+            <div
+                className='get-app'
+                dir='auto'
+            >
                 {this.renderHeader()}
                 <div className='get-app__dialog'>
                     <div

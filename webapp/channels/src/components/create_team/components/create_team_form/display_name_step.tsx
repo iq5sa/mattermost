@@ -9,7 +9,7 @@ import {Button} from '@mattermost/shared/components/button';
 
 import Input from 'components/widgets/inputs/input/input';
 
-import logoImage from 'images/login-logo.png';
+import logoImage from '../../../../images/header-logo.png';
 import Constants from 'utils/constants';
 
 export type Props = {

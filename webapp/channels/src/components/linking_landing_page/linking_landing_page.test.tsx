@@ -51,6 +51,24 @@ describe('components/LinkingLandingPage', () => {
             expect(navigateTo).not.toHaveBeenCalled();
         });
 
+        test('should render Arabic copy for the Arabic locale', () => {
+            renderWithContext(<LinkingLandingPage {...baseProps}/>, {}, {
+                locale: 'ar',
+                intlMessages: {
+                    'get_app.continueToBrowser': 'المتابعة عبر المتصفح',
+                    'get_app.dontHaveTheDesktopApp': 'ليس لديك تطبيق سطح المكتب؟',
+                    'get_app.downloadTheAppNow': 'نزّل التطبيق الآن.',
+                    'get_app.ifNothingPrompts': 'يمكنك عرض {siteName} في تطبيق سطح المكتب أو المتابعة عبر متصفح الويب.',
+                    'get_app.launching': 'أين ترغب في فتح هذا الرابط؟',
+                    'get_app.rememberMyPreference': 'تذكّر اختياري',
+                    'get_app.systemDialogMessage': 'عرض في تطبيق سطح المكتب',
+                },
+            });
+
+            expect(screen.getByRole('heading', {name: 'أين ترغب في فتح هذا الرابط؟'})).toBeVisible();
+            expect(screen.getByRole('link', {name: 'المتابعة عبر المتصفح'})).toBeVisible();
+        });
+
         test('should redirect to the browser when the browser preference is stored', () => {
             BrowserStore.setLandingPreferenceToBrowser(siteUrl);
 

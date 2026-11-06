@@ -45,17 +45,17 @@ const ProductBrandingFreeEdition = (): JSX.Element => {
     const license = useSelector(getLicense);
 
     let badgeText = '';
-    if (license?.SkuShortName === LicenseSkus.Entry) {
-        badgeText = 'ENTRY EDITION';
-    } else if (license?.IsLicensed === 'false') {
-        badgeText = 'TEAM EDITION';
-    }
+    // if (license?.SkuShortName === LicenseSkus.Entry) {
+    //     badgeText = 'ENTRY EDITION';
+    // } else if (license?.IsLicensed === 'false') {
+    //     badgeText = 'TEAM EDITION';
+    // }
 
     return (
         <ProductBrandingFreeEditionContainer tabIndex={-1}>
             <StyledLogo
-                width={116}
-                height={20}
+                width={300}
+                height={50}
             />
             <Badge>{badgeText}</Badge>
         </ProductBrandingFreeEditionContainer>

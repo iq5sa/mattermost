@@ -24,7 +24,7 @@ import LoadingScreen from 'components/loading_screen';
 import SystemPermissionGate from 'components/permissions_gates/system_permission_gate';
 import LogoutIcon from 'components/widgets/icons/fa_logout_icon';
 
-import logoImage from 'images/login-logo.png';
+import headerImage from '../../images/header-logo.png';
 import Constants from 'utils/constants';
 
 import SelectTeamItem from './components/select_team_item';
@@ -397,7 +397,7 @@ export default class SelectTeam extends React.PureComponent<Props, State> {
                         <img
                             alt={'signup team logo'}
                             className='signup-team-logo'
-                            src={logoImage}
+                            src={headerImage}
                         />
                         <SiteNameAndDescription
                             customDescriptionText={customDescriptionText}

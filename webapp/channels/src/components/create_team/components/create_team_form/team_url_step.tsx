@@ -8,7 +8,7 @@ import {FormattedMessage} from 'react-intl';
 import {Button} from '@mattermost/shared/components/button';
 import {WithTooltip} from '@mattermost/shared/components/tooltip';
 
-import logoImage from 'images/login-logo.png';
+import logoImage from '../../../../images/header-logo.png';
 import {getSiteURL} from 'utils/url';
 
 export type Props = {

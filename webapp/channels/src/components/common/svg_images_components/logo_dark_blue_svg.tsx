@@ -3,7 +3,7 @@
 
 import React from 'react';
 
-import logoImage from 'images/login-logo.png';
+import logoImage from '../../../images/header-logo.png';
 
 type Props = {
     width?: number;

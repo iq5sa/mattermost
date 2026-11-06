@@ -4,7 +4,7 @@
 import React from 'react';
 import {useIntl} from 'react-intl';
 
-import logoImage from 'images/login-logo.png';
+import logoImage from '../../../images/header-logo.png';
 
 export default function MattermostLogo(props: React.HTMLAttributes<HTMLSpanElement>) {
     const {formatMessage} = useIntl();
