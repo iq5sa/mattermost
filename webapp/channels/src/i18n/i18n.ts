@@ -20,6 +20,12 @@ export interface Language {
 
 // should match the values in server/public/shared/i18n/i18n.go
 export const languages = {
+    ar: {
+        value: 'ar',
+        name: 'العربية',
+        order: 22,
+        url: langFiles.ar,
+    },
     de: {
         value: 'de',
         name: 'Deutsch',
